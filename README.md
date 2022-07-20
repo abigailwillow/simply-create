@@ -1,10 +1,10 @@
 # 💜 Conigail's Modpack 💜
 
 ## Content
+
 - [Create](https://modrinth.com/mod/create-fabric)
 - [Repurposed Structures](https://modrinth.com/mod/repurposed-structures-fabric)
 - ~~[Mo' Structures](https://modrinth.com/mod/mo-structures)~~
-- [This Rocks!](https://modrinth.com/mod/this-rocks)
 - [Universal Ores](https://modrinth.com/mod/universal_ores)
 - ~~[Corpse](https://www.curseforge.com/minecraft/mc-mods/corpse)~~
 - ~~[Improved Backpacks](https://www.curseforge.com/minecraft/mc-mods/improvedbackpacks)~~
@@ -22,6 +22,7 @@
 - ~~[Tinker's Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct)~~
 
 ## Decoration
+
 - [Immersive Weathering](https://modrinth.com/mod/immersive-weathering)
 - [3D Skin Layers](https://modrinth.com/mod/3dskinlayers)
 - ~~[Fade In Chunks](https://modrinth.com/mod/fade-in-chunks)~~
@@ -41,6 +42,7 @@
 - ~~[XK's Decoration](https://www.curseforge.com/minecraft/mc-mods/xks-decoration)~~
 
 ## Quality of Life
+
 - [Immersive Portals](https://modrinth.com/mod/immersiveportals)
 - [Inventory Profiles Next](https://modrinth.com/mod/inventory-profiles-next)
 - [AntiGhost](https://modrinth.com/mod/antighost)
@@ -76,6 +78,7 @@
 - [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling)
 
 ## Performance
+
 - [Sodium](https://modrinth.com/mod/sodium)
 - ~~[Hydrogen](https://modrinth.com/mod/hydrogen)~~
 - [Lithium](https://modrinth.com/mod/lithium)
@@ -88,6 +91,7 @@
 - [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps)
 
 ## Libraries
+
 - [Mod Menu](https://modrinth.com/mod/modmenu)
 - [Fabric API](https://modrinth.com/mod/fabric-api)
 - [Bad Packets](https://modrinth.com/mod/badpackets)
