@@ -1,13 +1,12 @@
 name = "conigail-modpack"
-author = "abbydiode"
 version = "0.1.13"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "cddc6978d812158959ba49fe0774805c7023c0ced483ada44fef6e201fab9619"
+hash = "30d34d3f066951aae46a84d85bf481f9695f8cbcbf46b12d392d79d3e693bac1"
 
 [versions]
-fabric = "0.14.8"
 minecraft = "1.19"
+fabric = "0.14.8"
