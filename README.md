@@ -77,6 +77,7 @@
 - [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling)
 - [Unstackabundles](https://modrinth.com/mod/unstackabundles)
 - [Falling Tree](https://modrinth.com/mod/fallingtree)
+- [Borderless Mining](https://modrinth.com/mod/borderless-mining)
 
 ## Performance
 

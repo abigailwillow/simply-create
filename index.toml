@@ -6,7 +6,7 @@ hash = "c58fb495769c8e6f4c77d05a2d86e529ec4c599ad318c2169a23f805c6f8e2d9"
 
 [[files]]
 file = "README.md"
-hash = "27ce8fe401410f9a8ec592ff13a14eacea3fde3fd6cbb5371d5a67a526184d70"
+hash = "5dab0a31c7fe55888ae3f0dd35dbe737d9a2698d2b3df326675ad405be63f1a9"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -61,6 +61,11 @@ metafile = true
 [[files]]
 file = "mods/bobby.pw.toml"
 hash = "f06d2023edfd505850b00538fad3e4963fd0b88e8385e1610a3cbe258a806d75"
+metafile = true
+
+[[files]]
+file = "mods/borderless-mining.pw.toml"
+hash = "407fd025c6912135c7d40c238bb96fe05ea8172c403a100ed86f978fc8124c81"
 metafile = true
 
 [[files]]
