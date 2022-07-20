@@ -13,7 +13,7 @@
 - ~~[Map Atlases](https://modrinth.com/mod/map-atlases)~~
 - [Promenade](https://modrinth.com/mod/promenade)
 - ~~[Chest Cavity](https://modrinth.com/mod/chest-cavity)~~
-- ~~[Ender Storage](https://www.curseforge.com/minecraft/mc-mods/ender-storage-1-8)~~
+- [Ender Storage](https://www.curseforge.com/minecraft/mc-mods/ender-storage-1-8)
 - [Extended Caves](https://www.curseforge.com/minecraft/mc-mods/extended-caves)
 - [Randomium Ore](https://www.curseforge.com/minecraft/mc-mods/randomium-ore)
 - ~~[Metal Barrels](https://www.curseforge.com/minecraft/mc-mods/metal-barrels)~~
@@ -71,7 +71,6 @@
 - [Auth Me](https://modrinth.com/mod/auth-me)
 - ~~[Item Filters](https://www.curseforge.com/minecraft/mc-mods/item-filters)~~
 - ~~[Connected Doors](https://modrinth.com/mod/connecteddoors)~~
-- ~~[FastDecay](https://modrinth.com/mod/fastdecay)~~
 - ~~[Easy Painter](https://modrinth.com/mod/easy_painter)~~
 - ~~[The Mighty Architect](https://www.curseforge.com/minecraft/mc-mods/the-mighty-architect)~~
 - ~~[Better Burning](https://www.curseforge.com/minecraft/mc-mods/better-burning)~~
@@ -82,7 +81,6 @@
 ## Performance
 
 - [Sodium](https://modrinth.com/mod/sodium)
-- ~~[Hydrogen](https://modrinth.com/mod/hydrogen)~~
 - [Lithium](https://modrinth.com/mod/lithium)
 - [Phosphor](https://modrinth.com/mod/phosphor)
 - [DashLoader](https://modrinth.com/mod/dashloader)
@@ -105,4 +103,3 @@
 - [Architectury API](https://modrinth.com/mod/architectury-api)
 - [Moonlight Lib](https://www.curseforge.com/minecraft/mc-mods/selene)
 - [Frame API](https://modrinth.com/mod/frame-api)
-- 

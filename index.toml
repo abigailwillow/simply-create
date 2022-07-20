@@ -81,6 +81,11 @@ hash = "e89ae28ba1ed812cb0b0eadb6340fd63d091660763b4ecf0a646357e92b65af6"
 metafile = true
 
 [[files]]
+file = "mods/codechicken-lib-1-8.pw.toml"
+hash = "d8ddfd7bcd216748a3ebf43edcb900b4176972dfd578537485b781c8af24570f"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "4dd35c3c78436695d4a8741a98c0e83b1d62783e4da73dc2abb3707fe0649755"
 metafile = true
@@ -118,6 +123,11 @@ metafile = true
 [[files]]
 file = "mods/effective.pw.toml"
 hash = "7b76a5a039396501b31b122bd4db078489e572e95f6f32fcc59610c751375dec"
+metafile = true
+
+[[files]]
+file = "mods/ender-storage-1-8.pw.toml"
+hash = "a052eafe7b8f993f9e5db4ad2d3145a4028885a0b6e6e87e8108e9887dadc2ec"
 metafile = true
 
 [[files]]
