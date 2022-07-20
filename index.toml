@@ -266,6 +266,11 @@ hash = "b87f4919eead82d4655713fd1aa2752f7ab157e951c5e594862d268ee1ede9b9"
 metafile = true
 
 [[files]]
+file = "mods/unstackabundles.pw.toml"
+hash = "f8f00c4d142247e7bda21dd0a5b83e14da8f65c27c54d35e064868d42cdcf220"
+metafile = true
+
+[[files]]
 file = "mods/visuality.pw.toml"
 hash = "9ff97d15f98320cec39af7c1e1fe9b9a5aaf4d51e899ffdfdbb4ad1fc1b03f4f"
 metafile = true

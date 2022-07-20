@@ -77,6 +77,7 @@
 - ~~[The Mighty Architect](https://www.curseforge.com/minecraft/mc-mods/the-mighty-architect)~~
 - ~~[Better Burning](https://www.curseforge.com/minecraft/mc-mods/better-burning)~~
 - [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling)
+- [Unstackabundles](https://modrinth.com/mod/unstackabundles)
 
 ## Performance
 
