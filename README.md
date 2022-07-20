@@ -65,7 +65,6 @@
 - [Axes Are Weapons](https://modrinth.com/mod/axes-are-weapons)
 - ~~[Expanded Armor Enchanting](https://modrinth.com/mod/expanded-armor-enchanting)~~
 - ~~[Tax Free Levels](https://modrinth.com/mod/tax-free-levels)~~
-- [Cosmetic Armor](https://modrinth.com/mod/cosmetic-armor)
 - ~~[Limitless](https://modrinth.com/mod/limitless)~~
 - [Boat Item View](https://modrinth.com/mod/boat-item-view)
 - [Not Enough Crashes](https://modrinth.com/mod/notenoughcrashes)
