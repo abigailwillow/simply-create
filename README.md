@@ -85,7 +85,6 @@
 - [Cull Leaves](https://modrinth.com/mod/cull-leaves)
 - [FastLoad](https://modrinth.com/mod/fastload)
 - [LazyDFU](https://modrinth.com/mod/lazydfu)
-- [Distant Horizons](https://modrinth.com/mod/distanthorizons)
 - [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps)
 
 ## Libraries
