@@ -15,7 +15,7 @@ metafile = true
 
 [[files]]
 file = "mods/adorn.pw.toml"
-hash = "852d74e6af89c057c2d6187c40651b74b7a937c068d47a12b9f2b794f603dd10"
+hash = "37a77653eb9db0572dbb4760a6817c64036d9ff68bc5ce0aa6bbb81010fe7a7a"
 metafile = true
 
 [[files]]
@@ -35,7 +35,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "c3f4413a6233b9b037854befc548a64ba4eb9f36dabb2adb0f8589182823f8bb"
+hash = "f1ee36b330c4058ee5f0732d3b85e2622d58c3e422f5bd525d1b1472f365c221"
 metafile = true
 
 [[files]]
@@ -90,7 +90,7 @@ metafile = true
 
 [[files]]
 file = "mods/clumps.pw.toml"
-hash = "e89ae28ba1ed812cb0b0eadb6340fd63d091660763b4ecf0a646357e92b65af6"
+hash = "ce79747a07fef68863fca32fa1afabd8d3885b510d75693b18c03b78277f937a"
 metafile = true
 
 [[files]]
@@ -155,7 +155,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "c57ab7e92b672af93416304950b083d0b20aabe41af61d0993292dfef80744bf"
+hash = "8e91eac9da646c5458d00fb68ccf0887bf815947ef549cb19abebe1e6cec5c72"
 metafile = true
 
 [[files]]
