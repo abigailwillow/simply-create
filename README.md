@@ -87,7 +87,6 @@
 - [Phosphor](https://modrinth.com/mod/phosphor)
 - [DashLoader](https://modrinth.com/mod/dashloader)
 - [Enhanced Block Entities](https://modrinth.com/mod/ebe)
-- [Cull Leaves](https://modrinth.com/mod/cull-leaves)
 - [FastLoad](https://modrinth.com/mod/fastload)
 - [LazyDFU](https://modrinth.com/mod/lazydfu)
 - [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps)
