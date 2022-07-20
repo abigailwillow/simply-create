@@ -2,7 +2,7 @@
 
 ## Content
 
-- [Create](https://modrinth.com/mod/create-fabric)
+- ~~[Create](https://modrinth.com/mod/create-fabric)~~
 - [Repurposed Structures](https://modrinth.com/mod/repurposed-structures-fabric)
 - ~~[Mo' Structures](https://modrinth.com/mod/mo-structures)~~
 - [Universal Ores](https://modrinth.com/mod/universal_ores)
