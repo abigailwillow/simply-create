@@ -274,6 +274,11 @@ hash = "a2545ca26dcfa338761c72d2cafc001c1b27f27829cbef1e63bf16649e9a4f2d"
 metafile = true
 
 [[files]]
+file = "mods/terrablender-fabric.pw.toml"
+hash = "3c8e4b1db1fc289b70e2b95d57ddf42f2a5306c4a114435c8e0a6f98d32cc37a"
+metafile = true
+
+[[files]]
 file = "mods/trinkets.pw.toml"
 hash = "842711b0a1baa2fc6bd2ef6c1953c735f68e73c6b7a13dee723851feb183349c"
 metafile = true

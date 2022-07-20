@@ -103,3 +103,4 @@
 - [Architectury API](https://modrinth.com/mod/architectury-api)
 - [Moonlight Lib](https://www.curseforge.com/minecraft/mc-mods/selene)
 - [Frame API](https://modrinth.com/mod/frame-api)
+- [TerraBlender](https://www.curseforge.com/minecraft/mc-mods/terrablender-fabric)
