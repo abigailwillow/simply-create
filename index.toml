@@ -186,11 +186,6 @@ hash = "8f554f10f3ca26505c1f51871263a7d75fca1e07a288c60c1a96b18f830beede"
 metafile = true
 
 [[files]]
-file = "mods/neat.pw.toml"
-hash = "a284191b062b1be5e2a9f05257bf91f2938531988c1ba0090fadc966f942bd76"
-metafile = true
-
-[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "91e24178f86243b32a8516ceefd1f21b054d7c963e44f274ddfede8d8d41c027"
 metafile = true
