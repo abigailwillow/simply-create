@@ -78,6 +78,7 @@
 - ~~[Better Burning](https://www.curseforge.com/minecraft/mc-mods/better-burning)~~
 - [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling)
 - [Unstackabundles](https://modrinth.com/mod/unstackabundles)
+- [Falling Tree](https://modrinth.com/mod/fallingtree)
 
 ## Performance
 
@@ -105,3 +106,4 @@
 - [Architectury API](https://modrinth.com/mod/architectury-api)
 - [Moonlight Lib](https://www.curseforge.com/minecraft/mc-mods/selene)
 - [Frame API](https://modrinth.com/mod/frame-api)
+- 
