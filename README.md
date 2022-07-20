@@ -54,7 +54,7 @@
 - [AppleSkin](https://modrinth.com/mod/appleskin)
 - [Status Effect Timer](https://modrinth.com/mod/statuseffecttimer)
 - [Better Recipe Book](https://modrinth.com/mod/brb)
-- [Inspecio](https://modrinth.com/mod/inspecio)
+- ~~[Inspecio](https://modrinth.com/mod/inspecio)~~
 - [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks)
 - [Where Is It](https://modrinth.com/mod/where-is-it)
 - [Roughly Enough Items](https://modrinth.com/mod/roughly-enough-items)
