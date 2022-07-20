@@ -20,6 +20,7 @@
 - ~~[More Observers](https://www.curseforge.com/minecraft/mc-mods/more-observers)~~
 - ~~[More Minecarts](https://www.curseforge.com/minecraft/mc-mods/more-minecarts)~~
 - ~~[Tinker's Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct)~~
+- [Gimme Bundles!](https://modrinth.com/mod/gimme-bundles)
 
 ## Decoration
 

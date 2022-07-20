@@ -146,6 +146,11 @@ hash = "25149cc9696947258bd72d34c400a499afce2844557cbd2910a3b37a4cfccb72"
 metafile = true
 
 [[files]]
+file = "mods/gimme-bundles.pw.toml"
+hash = "c67fb0242b8ea5153a552c9895539b1c1a98259f05917d9919c42395d837117e"
+metafile = true
+
+[[files]]
 file = "mods/immersive-weathering.pw.toml"
 hash = "67669c0600277c52c7733cae69bbeb6ab39574482cf5099d5e0106f8e65cb75d"
 metafile = true
