@@ -41,6 +41,7 @@
 - [Bobby](https://modrinth.com/mod/bobby)
 - ~~[Full Slabs](https://modrinth.com/mod/full-slabs)~~
 - ~~[XK's Decoration](https://www.curseforge.com/minecraft/mc-mods/xks-decoration)~~
+- [Effective](https://www.curseforge.com/minecraft/mc-mods/effective)
 
 ## Quality of Life
 
