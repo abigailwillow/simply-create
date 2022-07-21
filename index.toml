@@ -6,7 +6,7 @@ hash = "c58fb495769c8e6f4c77d05a2d86e529ec4c599ad318c2169a23f805c6f8e2d9"
 
 [[files]]
 file = "README.md"
-hash = "6f242e39410f8986b9dc1dd53d15d0446b58baf61622a3806ea978936607436e"
+hash = "dfda9ba2556991ea161c0c1c5e82eafb8851627e732b3bc1b6997fa8c14c313a"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -241,6 +241,11 @@ metafile = true
 [[files]]
 file = "mods/promenade.pw.toml"
 hash = "083eae895c5e331da837214c468ee42347228b9989e1261aa258d705b1d01d9d"
+metafile = true
+
+[[files]]
+file = "mods/raised.pw.toml"
+hash = "014566a9d16177ef1499864718b28090b5ac254e3e910a2cea67b911b56f3e5a"
 metafile = true
 
 [[files]]

@@ -79,6 +79,7 @@
 - [Unstackabundles](https://modrinth.com/mod/unstackabundles)
 - [Falling Tree](https://modrinth.com/mod/fallingtree)
 - [Borderless Mining](https://modrinth.com/mod/borderless-mining)
+- [Raised](https://modrinth.com/mod/raised)
 
 ## Performance
 
