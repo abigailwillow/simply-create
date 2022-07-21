@@ -106,3 +106,4 @@
 - [Moonlight Lib](https://www.curseforge.com/minecraft/mc-mods/selene)
 - [Frame API](https://modrinth.com/mod/frame-api)
 - [TerraBlender](https://www.curseforge.com/minecraft/mc-mods/terrablender-fabric)
+- [Balm](https://modrinth.com/mod/balm)
