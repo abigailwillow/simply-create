@@ -29,6 +29,10 @@ file = "config/fallingleaves.json"
 hash = "3d9b594a174d163b83192d5347dd92f47e4e5de834dce3f360588e0f2f6d35b4"
 
 [[files]]
+file = "config/fallingtree.json"
+hash = "f343db0549554160891198635b3ca94d04595490ff7d435d01a9f0e366d91fb3"
+
+[[files]]
 file = "config/immersive_portals_fabric.json"
 hash = "4e79df157dd0d33c92eaadd5ad63bfddab19fd3d0e8afe44cf36621781313ee3"
 
