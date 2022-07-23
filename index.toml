@@ -33,6 +33,14 @@ file = "config/defaultoptions/roughlyenoughitems/config.json5"
 hash = "330168f36bab068debef99c228ca0d512943c4ea3c359fc7f6f902a706198b64"
 
 [[files]]
+file = "config/defaultoptions/waila/waila.json"
+hash = "4c880d7d2a016e85250ba3bd742e40698bc901851361ae3386fdb3914af031c7"
+
+[[files]]
+file = "config/defaultoptions/waila/waila_plugins.json"
+hash = "3a839fe161455b8099b4ef2a9943b42dabd9730ac5d088253b7ef61a483baaeb"
+
+[[files]]
 file = "config/fallingleaves.json"
 hash = "3d9b594a174d163b83192d5347dd92f47e4e5de834dce3f360588e0f2f6d35b4"
 
