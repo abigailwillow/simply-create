@@ -9,6 +9,10 @@ file = "README.md"
 hash = "3fee98a67b5dae005507f38e8dda97ec80857f5d0104248dfbd2e5676429d476"
 
 [[files]]
+file = "config/authme.json5"
+hash = "882b7680b3b92b6abc83dbe6811a1cc9be0bc08388635038dabdacd593a00cac"
+
+[[files]]
 file = "config/defaultoptions/keybindings.txt"
 hash = "43083cc1e04d214bc5ff99223b09c64c7a7499fdc09ae1be7e262c2b05313f54"
 
