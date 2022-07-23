@@ -6,7 +6,7 @@ hash = "c58fb495769c8e6f4c77d05a2d86e529ec4c599ad318c2169a23f805c6f8e2d9"
 
 [[files]]
 file = "README.md"
-hash = "3fee98a67b5dae005507f38e8dda97ec80857f5d0104248dfbd2e5676429d476"
+hash = "468f59211dbf25aab1334b045ae08b2a9640fac514b1962ae4fc05cdbfcbbc49"
 
 [[files]]
 file = "config/authme.json5"
@@ -17,19 +17,19 @@ file = "config/axesareweapons.json5"
 hash = "f6162aa89e46306ed963af9f3f652681e3d165536808d10220ce02b034c5ef41"
 
 [[files]]
-file = "config/defaultoptions/extra/inventoryprofilesnext/inventoryprofiles.json"
+file = "config/defaultoptions/extra/config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "65eb7e1d00aa7dad06af151fd4c1b4c8a67b012dab6c4c94a337325465535fa2"
 
 [[files]]
-file = "config/defaultoptions/extra/roughlyenoughitems/config.json5"
+file = "config/defaultoptions/extra/config/roughlyenoughitems/config.json5"
 hash = "73fa553c3ebbf34c4d5bd5048833121316a3f7f868875def111553b75619d2fa"
 
 [[files]]
-file = "config/defaultoptions/extra/waila/waila.json"
+file = "config/defaultoptions/extra/config/waila/waila.json"
 hash = "330aab621136eaa47f46bee2b17187122e8515a52226ffb6d9cb7345840b2f36"
 
 [[files]]
-file = "config/defaultoptions/extra/waila/waila_plugins.json"
+file = "config/defaultoptions/extra/config/waila/waila_plugins.json"
 hash = "ca51ffde7334f601e6ed95ee89d112b45d2714bb0e075e131db7e86c288b7193"
 
 [[files]]
