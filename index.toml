@@ -49,6 +49,10 @@ file = "config/modmenu.json"
 hash = "6eed848f2848a195cee130beeaad576843682d381e2a4279d5625fb114d81aa1"
 
 [[files]]
+file = "config/notenoughanimations.json"
+hash = "5b6cbdeaca3003d69aa9d42ade724370d867a1453f564fd39e43aebe10f245a9"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "6e6eaefbfaef2bcc5f1fae83112b3a6ab311c84ef776f389d13d49a500a52217"
 metafile = true
