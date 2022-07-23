@@ -10,15 +10,27 @@ hash = "3fee98a67b5dae005507f38e8dda97ec80857f5d0104248dfbd2e5676429d476"
 
 [[files]]
 file = "config/authme.json5"
-hash = "882b7680b3b92b6abc83dbe6811a1cc9be0bc08388635038dabdacd593a00cac"
+hash = "d6c3d2eaebe5056d236b3e6d6f7311c726d3e9a59f26e4b2b3ca3ed4abc12cac"
 
 [[files]]
 file = "config/axesareweapons.json5"
-hash = "075d28144136757171c065d593450f5c649619b58f38d71698aaab8e09bb5088"
+hash = "f6162aa89e46306ed963af9f3f652681e3d165536808d10220ce02b034c5ef41"
 
 [[files]]
-file = "config/defaultoptions/inventoryprofilesnext/inventoryprofiles.json"
-hash = "f542d0338b501be8f38062a1145dba7aeb049b7895f4ef788ce3b8ac23f1ab70"
+file = "config/defaultoptions/extra/inventoryprofilesnext/inventoryprofiles.json"
+hash = "65eb7e1d00aa7dad06af151fd4c1b4c8a67b012dab6c4c94a337325465535fa2"
+
+[[files]]
+file = "config/defaultoptions/extra/roughlyenoughitems/config.json5"
+hash = "73fa553c3ebbf34c4d5bd5048833121316a3f7f868875def111553b75619d2fa"
+
+[[files]]
+file = "config/defaultoptions/extra/waila/waila.json"
+hash = "330aab621136eaa47f46bee2b17187122e8515a52226ffb6d9cb7345840b2f36"
+
+[[files]]
+file = "config/defaultoptions/extra/waila/waila_plugins.json"
+hash = "ca51ffde7334f601e6ed95ee89d112b45d2714bb0e075e131db7e86c288b7193"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
@@ -29,24 +41,12 @@ file = "config/defaultoptions/options.txt"
 hash = "8b97b37d6c985054846e330f4c7e35e2db8c0f4d79f1019a86646b964acb999c"
 
 [[files]]
-file = "config/defaultoptions/roughlyenoughitems/config.json5"
-hash = "330168f36bab068debef99c228ca0d512943c4ea3c359fc7f6f902a706198b64"
-
-[[files]]
-file = "config/defaultoptions/waila/waila.json"
-hash = "4c880d7d2a016e85250ba3bd742e40698bc901851361ae3386fdb3914af031c7"
-
-[[files]]
-file = "config/defaultoptions/waila/waila_plugins.json"
-hash = "3a839fe161455b8099b4ef2a9943b42dabd9730ac5d088253b7ef61a483baaeb"
-
-[[files]]
 file = "config/fallingleaves.json"
-hash = "3d9b594a174d163b83192d5347dd92f47e4e5de834dce3f360588e0f2f6d35b4"
+hash = "6c5be5c1f0093db01d04f03c6bcdc208762b83279604ffaefafb10890703c96d"
 
 [[files]]
 file = "config/fallingtree.json"
-hash = "f343db0549554160891198635b3ca94d04595490ff7d435d01a9f0e366d91fb3"
+hash = "a3d0e5277d3ad0a6bfb71a84a50ca30490a537159f7efce5af46645648bb582d"
 
 [[files]]
 file = "config/immersive_portals_fabric.json"
@@ -54,15 +54,15 @@ hash = "4e79df157dd0d33c92eaadd5ad63bfddab19fd3d0e8afe44cf36621781313ee3"
 
 [[files]]
 file = "config/immersive_weathering.json5"
-hash = "f9e80254b202a857845d882a055df02a9d093c99ff241b9f464493d7544aeb48"
+hash = "545c95f7c1dfa33b055f0c1abc34236937da2587fad4158578a96898c8b4d840"
 
 [[files]]
 file = "config/modmenu.json"
-hash = "6eed848f2848a195cee130beeaad576843682d381e2a4279d5625fb114d81aa1"
+hash = "a4d3c29fe1f5207dfe54380105b54fd9cce5f82971e3dc888234aed6c41b78da"
 
 [[files]]
 file = "config/notenoughanimations.json"
-hash = "5b6cbdeaca3003d69aa9d42ade724370d867a1453f564fd39e43aebe10f245a9"
+hash = "5cdc679803fc168fb95bfad72b51ab23defc39d14b4c240b47ebbd426a3051a0"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
