@@ -21,14 +21,6 @@ file = "config/defaultoptions/extra/config/inventoryprofilesnext/inventoryprofil
 hash = "65eb7e1d00aa7dad06af151fd4c1b4c8a67b012dab6c4c94a337325465535fa2"
 
 [[files]]
-file = "config/defaultoptions/extra/config/roughlyenoughitems/changelog.txt"
-hash = "8d3828692497be68d54e98820db28df65ef79b28f16ec4ebeef0e0916588dd8e"
-
-[[files]]
-file = "config/defaultoptions/extra/config/roughlyenoughitems/config.json5"
-hash = "4691399df2a7e227237a30a319eb93b49ec154e4541e1eaa8435ebfa2bc70c14"
-
-[[files]]
 file = "config/defaultoptions/extra/config/waila/waila.json"
 hash = "330aab621136eaa47f46bee2b17187122e8515a52226ffb6d9cb7345840b2f36"
 
@@ -67,6 +59,14 @@ hash = "a4d3c29fe1f5207dfe54380105b54fd9cce5f82971e3dc888234aed6c41b78da"
 [[files]]
 file = "config/notenoughanimations.json"
 hash = "5cdc679803fc168fb95bfad72b51ab23defc39d14b4c240b47ebbd426a3051a0"
+
+[[files]]
+file = "config/roughlyenoughitems/changelog.txt"
+hash = "8d3828692497be68d54e98820db28df65ef79b28f16ec4ebeef0e0916588dd8e"
+
+[[files]]
+file = "config/roughlyenoughitems/config.json5"
+hash = "4691399df2a7e227237a30a319eb93b49ec154e4541e1eaa8435ebfa2bc70c14"
 
 [[files]]
 file = "config/simple-rpc.toml"
