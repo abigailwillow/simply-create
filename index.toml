@@ -29,6 +29,10 @@ file = "config/immersive_portals_fabric.json"
 hash = "4e79df157dd0d33c92eaadd5ad63bfddab19fd3d0e8afe44cf36621781313ee3"
 
 [[files]]
+file = "config/immersive_weathering.json5"
+hash = "f9e80254b202a857845d882a055df02a9d093c99ff241b9f464493d7544aeb48"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "6e6eaefbfaef2bcc5f1fae83112b3a6ab311c84ef776f389d13d49a500a52217"
 metafile = true
