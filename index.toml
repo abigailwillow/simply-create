@@ -69,12 +69,8 @@ file = "config/notenoughanimations.json"
 hash = "5cdc679803fc168fb95bfad72b51ab23defc39d14b4c240b47ebbd426a3051a0"
 
 [[files]]
-file = "config/simple-rpc-server.toml"
-hash = "e6aff6df1d05e83d493b71881ca23f0f6aeb5909018cece5629ff5a84f62857c"
-
-[[files]]
 file = "config/simple-rpc.toml"
-hash = "a090418b66333e2c53024de43f73ff8f0b2e903eba3dba15082b03b5be7a1c9c"
+hash = "f16161cb075c1fdf1a8aab25fbcd959d1740e5940bd8748872bda4d7ece46517"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"

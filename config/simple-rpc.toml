@@ -19,9 +19,9 @@
 	#Enable/Disable the Game Loading Event
 	enabled = true
 	#The first line of text under the app name
-	description = "Minecraft is loading"
+	description = "Loading Minecraft"
 	#The second line of text under the app name
-	state = "Game starting..."
+	state = "%player%'s game is loading"
 	#The Asset ID of the image to display as the large image
 	largeImageKey = "mclogo"
 	#The text that gets displayed when the large image is hovered
@@ -38,9 +38,9 @@
 	#Enable/Disable the Main Menu Event
 	enabled = true
 	#The first line of text under the app name
-	description = "%player% is idle"
+	description = "Main Menu"
 	#The seconds line of text under the app name
-	state = "Main menu"
+	state = "%player% is idle"
 	#The Asset ID of the image to display as the large image
 	largeImageKey = "mclogo"
 	#The text that gets displayed when the large image is hovered
@@ -57,28 +57,9 @@
 	#Enable/Disable the Server List Event
 	enabled = true
 	#The first line of text under the app name
-	description = "%player% is looking for a server"
+	description = "Browsing Servers"
 	#The second line of text under the app name
-	state = "Browsing servers"
-	#The Asset ID of the image to display as the large image
-	largeImageKey = "mclogo"
-	#The text that gets displayed when the large image is hovered
-	largeImageText = "Conigail's Modpack %mcver%"
-	#The Asset ID of the image to display as the small image
-	smallImageKey = "mclogo"
-	#The text that gets displayed when the small image is hovered
-	smallImageText = "%mods% mods installed"
-	#The buttons to display on Discord
-	buttons = []
-
-#The Realms Screen event
-[realms_list]
-	#Enable/Disable the Realms Screen Event
-	enabled = true
-	#The first line of text under the app name
-	description = "%player% is looking for a realm"
-	#The second line of text under the app name
-	state = "Browsing realms"
+	state = "%player% is looking for a server"
 	#The Asset ID of the image to display as the large image
 	largeImageKey = "mclogo"
 	#The text that gets displayed when the large image is hovered
@@ -95,9 +76,9 @@
 	#Enable/Disable the Join Game Event
 	enabled = true
 	#The first line of text under the app name
-	description = "%player% is loading a world"
+	description = "Loading World"
 	#The second line of text under the app name
-	state = "Loading world"
+	state = "%player% is loading a world"
 	#The Asset ID of the image to display as the large image
 	largeImageKey = "mclogo"
 	#The text that gets displayed when the large image is hovered
@@ -114,9 +95,9 @@
 	#Enable/Disable the Single Player Event
 	enabled = true
 	#The first line of text under the app name
-	description = "Currently in %world%"
+	description = "Exploring %biome%"
 	#The second line of text under the app name
-	state = "Playing singleplayer"
+	state = "%player% is playing offline"
 	#The Asset ID of the image to display as the large image
 	largeImageKey = "mclogo"
 	#The text that gets displayed when the large image is hovered
@@ -135,7 +116,7 @@
 	#The first line of text under the app name
 	description = "Playing on %servername% with %players% players"
 	#The second line of text under the app name
-	state = "Playing multiplayer"
+	state = "%player% is playing online"
 	#The Asset ID of the image to display as the large image
 	largeImageKey = "mclogo"
 	#The text that gets displayed when the large image is hovered
@@ -144,25 +125,6 @@
 	smallImageKey = "mclogo"
 	#The text that gets displayed when the small image is hovered
 	smallImageText = "%mods% mods installed"
-	#The buttons to display on Discord
-	buttons = []
-
-#The Realms Game Event
-[realms]
-	#Enable/Disable the Realms Game Event
-	enabled = true
-	#The first line of text under the app name
-	description = "Playing on %realmname%"
-	#The second line of text under the app name
-	state = "Playing on a realm"
-	#The Asset ID of the image to display as the large image
-	largeImageKey = "mclogo"
-	#The text that gets displayed when the large image is hovered
-	largeImageText = "Conigail's Modppack %mcver%"
-	#The Asset ID of the image to display as the small image
-	smallImageKey = "mclogo"
-	#The text that gets displayed when the small image is hovered
-	smallImageText = "%realmdescription%"
 	#The buttons to display on Discord
 	buttons = []
 
@@ -183,36 +145,17 @@
 	#The buttons to display on Discord
 	buttons = []
 
+#The Realms Game Event
+[realms]
+	#Enable/Disable the Realms Game Event
+	enabled = false
+
+#The Realms Screen event
+[realms_list]
+	#Enable/Disable the Realms Screen Event
+	enabled = false
+
 #Dimension Information Overrides
 [dimension_overrides]
 	#Allows you to override the displayed values for dimensions
-	enabled = true
-
-	#The Dimensions to override
-	[[dimension_overrides.dimensions]]
-		name = "overworld"
-		description = "%player% is exploring the world"
-		state = ""
-		largeImageKey = "mclogo"
-		largeImageText = "Conigail's Modpack %mcver%"
-		smallImageKey = "mclogo"
-		smallImageText = "%mods% mods installed"
-
-	[[dimension_overrides.dimensions]]
-		name = "the_nether"
-		description = "%player% is exploring the nether"
-		state = ""
-		largeImageKey = "mclogo"
-		largeImageText = "Conigail's Modpack %mcver%"
-		smallImageKey = "mclogo"
-		smallImageText = "%mods% mods installed"
-
-	[[dimension_overrides.dimensions]]
-		name = "the_end"
-		description = "%player% is exploring the end"
-		state = ""
-		largeImageKey = "mclogo"
-		largeImageText = "Conigail's Modpack %mcver%"
-		smallImageKey = "mclogo"
-		smallImageText = "%mods% mods installed"
-
+	enabled = false
