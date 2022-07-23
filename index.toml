@@ -14,7 +14,11 @@ hash = "43083cc1e04d214bc5ff99223b09c64c7a7499fdc09ae1be7e262c2b05313f54"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "6e59e647ca3afce3de09bcdcd9c93618335891d939fe6783eedf27843521c012"
+hash = "8b97b37d6c985054846e330f4c7e35e2db8c0f4d79f1019a86646b964acb999c"
+
+[[files]]
+file = "config/immersive_portals_fabric.json"
+hash = "4e79df157dd0d33c92eaadd5ad63bfddab19fd3d0e8afe44cf36621781313ee3"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
