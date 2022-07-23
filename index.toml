@@ -6,7 +6,15 @@ hash = "c58fb495769c8e6f4c77d05a2d86e529ec4c599ad318c2169a23f805c6f8e2d9"
 
 [[files]]
 file = "README.md"
-hash = "dfda9ba2556991ea161c0c1c5e82eafb8851627e732b3bc1b6997fa8c14c313a"
+hash = "3fee98a67b5dae005507f38e8dda97ec80857f5d0104248dfbd2e5676429d476"
+
+[[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "43083cc1e04d214bc5ff99223b09c64c7a7499fdc09ae1be7e262c2b05313f54"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "6e59e647ca3afce3de09bcdcd9c93618335891d939fe6783eedf27843521c012"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -15,7 +23,7 @@ metafile = true
 
 [[files]]
 file = "mods/adorn.pw.toml"
-hash = "37a77653eb9db0572dbb4760a6817c64036d9ff68bc5ce0aa6bbb81010fe7a7a"
+hash = "a86df9134717ee4a8d8c1f15075d2bea57c4058c67283c8438c12c74627cd99d"
 metafile = true
 
 [[files]]
@@ -35,7 +43,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "f1ee36b330c4058ee5f0732d3b85e2622d58c3e422f5bd525d1b1472f365c221"
+hash = "dfc59683be2345c9445ef05324a95ebc9f9e2d86d199468d2989a2119ba3ce45"
 metafile = true
 
 [[files]]
@@ -55,7 +63,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "f741a118c2289e87b550b8b139a5bab8917fbe08a84039de6917d237253c5358"
+hash = "23ea803dca17e3f1afdfc4cb69cf870b39b09dbc98906c6843ea8d0a7765c7b5"
 metafile = true
 
 [[files]]
@@ -70,7 +78,7 @@ metafile = true
 
 [[files]]
 file = "mods/borderless-mining.pw.toml"
-hash = "407fd025c6912135c7d40c238bb96fe05ea8172c403a100ed86f978fc8124c81"
+hash = "7458287e74c92e5f02e759aac265be32cfc1c3b5ab2b3c6b65415c477a5d5bb1"
 metafile = true
 
 [[files]]
@@ -95,12 +103,12 @@ metafile = true
 
 [[files]]
 file = "mods/clumps.pw.toml"
-hash = "ce79747a07fef68863fca32fa1afabd8d3885b510d75693b18c03b78277f937a"
+hash = "9a86f064db405fbce3df05d876011467b077ba4a50e3cde862fea0fc068c1cca"
 metafile = true
 
 [[files]]
 file = "mods/codechicken-lib-1-8.pw.toml"
-hash = "d8ddfd7bcd216748a3ebf43edcb900b4176972dfd578537485b781c8af24570f"
+hash = "b7ad9969c2918780c5899faab02a6caeb2791ac3ec31164e8f53fb16f18a0b4d"
 metafile = true
 
 [[files]]
@@ -125,7 +133,7 @@ metafile = true
 
 [[files]]
 file = "mods/default-options.pw.toml"
-hash = "8c82e927eea2e4f9dc1e5377d21c4bf84af36714dd0b10f44ce932c18f80c9b6"
+hash = "322d0d5c18835874d7dc2b70b7ebe537c84fd31a36d56924a147db56a784d30b"
 metafile = true
 
 [[files]]
@@ -145,12 +153,12 @@ metafile = true
 
 [[files]]
 file = "mods/effective.pw.toml"
-hash = "7b76a5a039396501b31b122bd4db078489e572e95f6f32fcc59610c751375dec"
+hash = "60d48d21c9b8a06ead6d1eae937618b5e83f85a08500eb4b819fb161a25e7958"
 metafile = true
 
 [[files]]
 file = "mods/ender-storage-1-8.pw.toml"
-hash = "a052eafe7b8f993f9e5db4ad2d3145a4028885a0b6e6e87e8108e9887dadc2ec"
+hash = "3de83d99948e2f4bccd922f03b7dbaa354b93e6f24f3ca4fb3e28935480163a7"
 metafile = true
 
 [[files]]
@@ -160,7 +168,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "8e91eac9da646c5458d00fb68ccf0887bf815947ef549cb19abebe1e6cec5c72"
+hash = "d2bc8edd92d5157324715658ee819f7fc31eb255b0861807adb16f3c1a618375"
 metafile = true
 
 [[files]]
@@ -170,7 +178,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingtree.pw.toml"
-hash = "f29e7e0c05dfa976e14613ef7d726909ef6e406bb2338ad4f434f1bf83f898d6"
+hash = "8675830450df48d1332c52b1509ac7fb4a674f1e6adbae43aba4bab06e9ef122"
 metafile = true
 
 [[files]]
@@ -185,7 +193,7 @@ metafile = true
 
 [[files]]
 file = "mods/gimme-bundles.pw.toml"
-hash = "c67fb0242b8ea5153a552c9895539b1c1a98259f05917d9919c42395d837117e"
+hash = "5b9017f326f5e95deb78ab52470a134c2cfebc8614ee7d32785c584cffcd0399"
 metafile = true
 
 [[files]]
@@ -245,7 +253,7 @@ metafile = true
 
 [[files]]
 file = "mods/raised.pw.toml"
-hash = "014566a9d16177ef1499864718b28090b5ac254e3e910a2cea67b911b56f3e5a"
+hash = "e4535974cb5ae23838862b1a0826b675811ecfe36b2c330fecb4d91bfc48c813"
 metafile = true
 
 [[files]]
@@ -290,12 +298,12 @@ metafile = true
 
 [[files]]
 file = "mods/tax-free-levels.pw.toml"
-hash = "a2545ca26dcfa338761c72d2cafc001c1b27f27829cbef1e63bf16649e9a4f2d"
+hash = "e5d7ea28f11a0eec8b35014f59fbf9d3c464e19b4c99c73841d7b68cfb697926"
 metafile = true
 
 [[files]]
 file = "mods/terrablender-fabric.pw.toml"
-hash = "3c8e4b1db1fc289b70e2b95d57ddf42f2a5306c4a114435c8e0a6f98d32cc37a"
+hash = "4718140ebb6a7367019f90dbee8f26658fd4801ea9de3d6fe1274b0b90869be4"
 metafile = true
 
 [[files]]
@@ -315,7 +323,7 @@ metafile = true
 
 [[files]]
 file = "mods/unstackabundles.pw.toml"
-hash = "f8f00c4d142247e7bda21dd0a5b83e14da8f65c27c54d35e064868d42cdcf220"
+hash = "7a44ab1246e819f0f76912d57bfff4b25fe72b0766e948c9cce35adf879c8b24"
 metafile = true
 
 [[files]]
