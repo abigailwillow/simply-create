@@ -21,8 +21,12 @@ file = "config/defaultoptions/extra/config/inventoryprofilesnext/inventoryprofil
 hash = "65eb7e1d00aa7dad06af151fd4c1b4c8a67b012dab6c4c94a337325465535fa2"
 
 [[files]]
+file = "config/defaultoptions/extra/config/roughlyenoughitems/changelog.txt"
+hash = "8d3828692497be68d54e98820db28df65ef79b28f16ec4ebeef0e0916588dd8e"
+
+[[files]]
 file = "config/defaultoptions/extra/config/roughlyenoughitems/config.json5"
-hash = "73fa553c3ebbf34c4d5bd5048833121316a3f7f868875def111553b75619d2fa"
+hash = "4691399df2a7e227237a30a319eb93b49ec154e4541e1eaa8435ebfa2bc70c14"
 
 [[files]]
 file = "config/defaultoptions/extra/config/waila/waila.json"
