@@ -17,6 +17,10 @@ file = "config/axesareweapons.json5"
 hash = "075d28144136757171c065d593450f5c649619b58f38d71698aaab8e09bb5088"
 
 [[files]]
+file = "config/defaultoptions/inventoryprofilesnext/inventoryprofiles.json"
+hash = "f542d0338b501be8f38062a1145dba7aeb049b7895f4ef788ce3b8ac23f1ab70"
+
+[[files]]
 file = "config/defaultoptions/keybindings.txt"
 hash = "43083cc1e04d214bc5ff99223b09c64c7a7499fdc09ae1be7e262c2b05313f54"
 
