@@ -70,11 +70,11 @@ hash = "5cdc679803fc168fb95bfad72b51ab23defc39d14b4c240b47ebbd426a3051a0"
 
 [[files]]
 file = "config/simple-rpc-server.toml"
-hash = "af4c18fe5c5777f828485ce90a6708b14216f8f84bd356b8c4d1b3b7d1729d9d"
+hash = "e6aff6df1d05e83d493b71881ca23f0f6aeb5909018cece5629ff5a84f62857c"
 
 [[files]]
 file = "config/simple-rpc.toml"
-hash = "51b8c6f69151fa1513252731688817b253d796a5d435e11ba064659b66de2714"
+hash = "a090418b66333e2c53024de43f73ff8f0b2e903eba3dba15082b03b5be7a1c9c"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"

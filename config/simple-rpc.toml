@@ -23,7 +23,7 @@
 	#The second line of text under the app name
 	state = "Game starting..."
 	#The Asset ID of the image to display as the large image
-	largeImageKey = "mclogonew"
+	largeImageKey = "mclogo"
 	#The text that gets displayed when the large image is hovered
 	largeImageText = "Conigail's Modpack %mcver%"
 	#The Asset ID of the image to display as the small image
@@ -40,9 +40,9 @@
 	#The first line of text under the app name
 	description = "%player% is idle"
 	#The seconds line of text under the app name
-	state = "In main menu"
+	state = "Main menu"
 	#The Asset ID of the image to display as the large image
-	largeImageKey = "mclogonew"
+	largeImageKey = "mclogo"
 	#The text that gets displayed when the large image is hovered
 	largeImageText = "Conigail's Modpack %mcver%"
 	#The Asset ID of the image to display as the small image
@@ -61,7 +61,7 @@
 	#The second line of text under the app name
 	state = "Browsing servers"
 	#The Asset ID of the image to display as the large image
-	largeImageKey = "mclogonew"
+	largeImageKey = "mclogo"
 	#The text that gets displayed when the large image is hovered
 	largeImageText = "Conigail's Modpack %mcver%"
 	#The Asset ID of the image to display as the small image
@@ -80,7 +80,7 @@
 	#The second line of text under the app name
 	state = "Browsing realms"
 	#The Asset ID of the image to display as the large image
-	largeImageKey = "mclogonew"
+	largeImageKey = "mclogo"
 	#The text that gets displayed when the large image is hovered
 	largeImageText = "Conigail's Modpack %mcver%"
 	#The Asset ID of the image to display as the small image
@@ -95,11 +95,11 @@
 	#Enable/Disable the Join Game Event
 	enabled = true
 	#The first line of text under the app name
-	description = "%player% is joining a game"
+	description = "%player% is loading a world"
 	#The second line of text under the app name
-	state = "Joining game"
+	state = "Loading world"
 	#The Asset ID of the image to display as the large image
-	largeImageKey = "mclogonew"
+	largeImageKey = "mclogo"
 	#The text that gets displayed when the large image is hovered
 	largeImageText = "Conigail's Modpack %mcver%"
 	#The Asset ID of the image to display as the small image
@@ -114,11 +114,11 @@
 	#Enable/Disable the Single Player Event
 	enabled = true
 	#The first line of text under the app name
-	description = "Currently In %world%"
+	description = "Currently in %world%"
 	#The second line of text under the app name
 	state = "Playing singleplayer"
 	#The Asset ID of the image to display as the large image
-	largeImageKey = "mclogonew"
+	largeImageKey = "mclogo"
 	#The text that gets displayed when the large image is hovered
 	largeImageText = "Conigail's Modpack %mcver%"
 	#The Asset ID of the image to display as the small image
@@ -137,7 +137,7 @@
 	#The second line of text under the app name
 	state = "Playing multiplayer"
 	#The Asset ID of the image to display as the large image
-	largeImageKey = "mclogonew"
+	largeImageKey = "mclogo"
 	#The text that gets displayed when the large image is hovered
 	largeImageText = "Conigail's Modpack %mcver%"
 	#The Asset ID of the image to display as the small image
@@ -156,7 +156,7 @@
 	#The second line of text under the app name
 	state = "Playing on a realm"
 	#The Asset ID of the image to display as the large image
-	largeImageKey = "mclogonew"
+	largeImageKey = "mclogo"
 	#The text that gets displayed when the large image is hovered
 	largeImageText = "Conigail's Modppack %mcver%"
 	#The Asset ID of the image to display as the small image
@@ -173,9 +173,9 @@
 	#The second line of text under the app name
 	state = ""
 	#The Asset ID of the image to display as the large image
-	largeImageKey = "mclogonew"
+	largeImageKey = "mclogo"
 	#The text that gets displayed when the large image is hovered
-	largeImageText = "Conigail's Modppack %mcver%"
+	largeImageText = "Conigail's Modpack %mcver%"
 	#The Asset ID of the image to display as the small image
 	smallImageKey = "mclogo"
 	#The text that gets displayed when the small image is hovered
@@ -186,33 +186,33 @@
 #Dimension Information Overrides
 [dimension_overrides]
 	#Allows you to override the displayed values for dimensions
-	enabled = false
+	enabled = true
 
 	#The Dimensions to override
 	[[dimension_overrides.dimensions]]
 		name = "overworld"
-		description = "%player% is in the overworld"
+		description = "%player% is exploring the world"
 		state = ""
-		largeImageKey = "overworld"
-		largeImageText = "In the overworld"
+		largeImageKey = "mclogo"
+		largeImageText = "Conigail's Modpack %mcver%"
 		smallImageKey = "mclogo"
 		smallImageText = "%mods% mods installed"
 
 	[[dimension_overrides.dimensions]]
 		name = "the_nether"
-		description = "%player% is in the nether"
+		description = "%player% is exploring the nether"
 		state = ""
-		largeImageKey = "nether"
-		largeImageText = "In the nether"
+		largeImageKey = "mclogo"
+		largeImageText = "Conigail's Modpack %mcver%"
 		smallImageKey = "mclogo"
 		smallImageText = "%mods% mods installed"
 
 	[[dimension_overrides.dimensions]]
 		name = "the_end"
-		description = "%player% is in the end"
+		description = "%player% is exploring the end"
 		state = ""
-		largeImageKey = "end"
-		largeImageText = "In the end"
+		largeImageKey = "mclogo"
+		largeImageText = "Conigail's Modpack %mcver%"
 		smallImageKey = "mclogo"
 		smallImageText = "%mods% mods installed"
 
