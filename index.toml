@@ -29,6 +29,10 @@ file = "config/defaultoptions/options.txt"
 hash = "8b97b37d6c985054846e330f4c7e35e2db8c0f4d79f1019a86646b964acb999c"
 
 [[files]]
+file = "config/defaultoptions/roughlyenoughitems/config.json5"
+hash = "330168f36bab068debef99c228ca0d512943c4ea3c359fc7f6f902a706198b64"
+
+[[files]]
 file = "config/fallingleaves.json"
 hash = "3d9b594a174d163b83192d5347dd92f47e4e5de834dce3f360588e0f2f6d35b4"
 
