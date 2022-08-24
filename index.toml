@@ -198,6 +198,11 @@ hash = "b60fc5c154d6ca0e07406638d53bfbaa751e3ef517ff553fcec8543847844728"
 metafile = true
 
 [[files]]
+file = "mods/default-options-fabric.pw.toml"
+hash = "42844974787f15c97fe72fbdbf2cb0d32f747f6d7e0c2101540973f649cf45d2"
+metafile = true
+
+[[files]]
 file = "mods/default-options.pw.toml"
 hash = "322d0d5c18835874d7dc2b70b7ebe537c84fd31a36d56924a147db56a784d30b"
 metafile = true
