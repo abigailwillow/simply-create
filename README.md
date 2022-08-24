@@ -21,6 +21,7 @@
 - ~~[Tinker's Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct)~~
 - [Gimme Bundles!](https://modrinth.com/mod/gimme-bundles)
 - [Traverse](https://modrinth.com/mod/traverse)
+- [Fabric Seasons](https://modrinth.com/mod/fabric-seasons)
 
 ## Decoration
 

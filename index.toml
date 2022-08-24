@@ -257,6 +257,11 @@ hash = "d2bc8edd92d5157324715658ee819f7fc31eb255b0861807adb16f3c1a618375"
 metafile = true
 
 [[files]]
+file = "mods/fabric-seasons.pw.toml"
+hash = "33f3369dd4d55040c994446eb5090532bfed2a4861bab50de193befd5430ce9e"
+metafile = true
+
+[[files]]
 file = "mods/fallingleaves.pw.toml"
 hash = "a2f5ac9241681699e8bcd7da4c90e9899686290f883a63c56f7009f18f731e7e"
 metafile = true
