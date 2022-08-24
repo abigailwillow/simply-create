@@ -6,7 +6,7 @@ hash = "c58fb495769c8e6f4c77d05a2d86e529ec4c599ad318c2169a23f805c6f8e2d9"
 
 [[files]]
 file = "README.md"
-hash = "68bc1b408c54bf2dd449bfe25a14766b4eab4d358a5b7ed3e04801ff1328778b"
+hash = "926f52349d604c048242e8a49baf7413abf571d41b60e82d14507de31536159f"
 
 [[files]]
 file = "config/authme.json5"
@@ -280,6 +280,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "83541b1d3e1e936638a6938eb505bf0f508c13aed7f8416af8d064ffc7cda4dc"
+metafile = true
+
+[[files]]
+file = "mods/map-atlases.pw.toml"
+hash = "fbbe17f5d61d3d21dbbdcb4dd83e8660172b32eb13341860855dd517f3b59a83"
 metafile = true
 
 [[files]]
