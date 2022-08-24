@@ -6,7 +6,7 @@ hash = "c58fb495769c8e6f4c77d05a2d86e529ec4c599ad318c2169a23f805c6f8e2d9"
 
 [[files]]
 file = "README.md"
-hash = "b95e4d28fa4128bc46a6833248cdbc3018afa590f8f98a20d86b521b8ae6fc29"
+hash = "d13d9eddcdf176dc54662a9036fd0218ee9c8c8bc704b17a6b3bd03a1d9d5a61"
 
 [[files]]
 file = "config/authme.json5"
@@ -370,11 +370,6 @@ metafile = true
 [[files]]
 file = "mods/raised.pw.toml"
 hash = "389f2d01e0f3417395d0ff8c9c7b267c8c0b1f2d67cb583a450a637bec8f3239"
-metafile = true
-
-[[files]]
-file = "mods/randomium-ore.pw.toml"
-hash = "0ea3d0e17f773aa947e45972c91f9679fa4d432310d79306ed7aeef2b3f17427"
 metafile = true
 
 [[files]]

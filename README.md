@@ -15,7 +15,7 @@
 - ~~[Chest Cavity](https://modrinth.com/mod/chest-cavity)~~
 - [Ender Storage](https://www.curseforge.com/minecraft/mc-mods/ender-storage-1-8)
 - [Extended Caves](https://www.curseforge.com/minecraft/mc-mods/extended-caves)
-- [Randomium Ore](https://www.curseforge.com/minecraft/mc-mods/randomium-ore)
+- ~~[Randomium Ore](https://www.curseforge.com/minecraft/mc-mods/randomium-ore)~~
 - ~~[Metal Barrels](https://www.curseforge.com/minecraft/mc-mods/metal-barrels)~~
 - ~~[More Observers](https://www.curseforge.com/minecraft/mc-mods/more-observers)~~
 - ~~[More Minecarts](https://www.curseforge.com/minecraft/mc-mods/more-minecarts)~~
@@ -76,7 +76,7 @@
 - ~~[The Mighty Architect](https://www.curseforge.com/minecraft/mc-mods/the-mighty-architect)~~
 - ~~[Better Burning](https://www.curseforge.com/minecraft/mc-mods/better-burning)~~
 - [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling)
-- [Unstackabundles](https://modrinth.com/mod/unstackabundles)
+- ~~[Unstackabundles](https://modrinth.com/mod/unstackabundles)~~
 - [Falling Tree](https://modrinth.com/mod/fallingtree)
 - [Borderless Mining](https://modrinth.com/mod/borderless-mining)
 - [Raised](https://modrinth.com/mod/raised)
