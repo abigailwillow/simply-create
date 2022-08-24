@@ -6,7 +6,7 @@ hash = "c58fb495769c8e6f4c77d05a2d86e529ec4c599ad318c2169a23f805c6f8e2d9"
 
 [[files]]
 file = "README.md"
-hash = "7c391a1ba19622fee0709f074b1484a7aace86b8b01f9a9b6eb63e841c9a2a2c"
+hash = "8a704fda2d885deebb364dada0473162c107641ba2f6adc1a221f88295870f14"
 
 [[files]]
 file = "config/authme.json5"
@@ -165,6 +165,11 @@ metafile = true
 [[files]]
 file = "mods/codechicken-lib-1-8.pw.toml"
 hash = "b7ad9969c2918780c5899faab02a6caeb2791ac3ec31164e8f53fb16f18a0b4d"
+metafile = true
+
+[[files]]
+file = "mods/connecteddoors.pw.toml"
+hash = "2d694cb50364250ba927112b86008355fdaf8163a3c7311bb25fb0ba044c1609"
 metafile = true
 
 [[files]]

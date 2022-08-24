@@ -71,7 +71,7 @@
 - [Not Enough Crashes](https://modrinth.com/mod/notenoughcrashes)
 - [Auth Me](https://modrinth.com/mod/auth-me)
 - [Item Filters](https://www.curseforge.com/minecraft/mc-mods/item-filters)
-- ~~[Connected Doors](https://modrinth.com/mod/connecteddoors)~~
+- [Connected Doors](https://modrinth.com/mod/connecteddoors)
 - ~~[Easy Painter](https://modrinth.com/mod/easy_painter)~~
 - ~~[The Mighty Architect](https://www.curseforge.com/minecraft/mc-mods/the-mighty-architect)~~
 - ~~[Better Burning](https://www.curseforge.com/minecraft/mc-mods/better-burning)~~
