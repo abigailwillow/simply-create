@@ -393,11 +393,6 @@ hash = "6bbaa499cb0998b9bd0cf54b1d6e221d7dacd591b7cda58c3ad93b283538246b"
 metafile = true
 
 [[files]]
-file = "mods/selene.pw.toml"
-hash = "9a13331e0e36d41afc0f8acf40da687d41f4a926fee2e9a1edfdd2ccce32d020"
-metafile = true
-
-[[files]]
 file = "mods/simple-discord-rpc.pw.toml"
 hash = "01292cc6fd95f9e10138e98f33646ed235c18a0c1f542b5839928a7390a29835"
 metafile = true

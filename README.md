@@ -105,7 +105,6 @@
 - [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)
 - [Simple Discord RPC](https://modrinth.com/mod/simple-discord-rpc)
 - [Architectury API](https://modrinth.com/mod/architectury-api)
-- [Moonlight Lib](https://www.curseforge.com/minecraft/mc-mods/selene)
 - [Frame API](https://modrinth.com/mod/frame-api)
 - [TerraBlender](https://www.curseforge.com/minecraft/mc-mods/terrablender-fabric)
 - [Balm](https://modrinth.com/mod/balm)
