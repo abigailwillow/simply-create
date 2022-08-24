@@ -61,6 +61,10 @@ file = "config/notenoughanimations.json"
 hash = "5cdc679803fc168fb95bfad72b51ab23defc39d14b4c240b47ebbd426a3051a0"
 
 [[files]]
+file = "config/pettable.json"
+hash = "1357aa99383eca67a330611a33fc21dd2540456587534c9f9a7e532a5023e0ec"
+
+[[files]]
 file = "config/roughlyenoughitems/changelog.txt"
 hash = "8d3828692497be68d54e98820db28df65ef79b28f16ec4ebeef0e0916588dd8e"
 
