@@ -6,7 +6,7 @@ hash = "c58fb495769c8e6f4c77d05a2d86e529ec4c599ad318c2169a23f805c6f8e2d9"
 
 [[files]]
 file = "README.md"
-hash = "fa0d9251ffac96807c7e45183679b8a2cf24d8eb469bc97b511a96456c3c847a"
+hash = "31fc66c885a63d4b363d087ef61c995faf4d24790f5f4bb7fa6fceacfa24afaf"
 
 [[files]]
 file = "config/authme.json5"
@@ -220,11 +220,6 @@ metafile = true
 [[files]]
 file = "mods/editsign.pw.toml"
 hash = "6d7b04efc75df1cf683461b8834aa27fcce910f1af30107a943bdef94c0ab408"
-metafile = true
-
-[[files]]
-file = "mods/effective.pw.toml"
-hash = "60d48d21c9b8a06ead6d1eae937618b5e83f85a08500eb4b819fb161a25e7958"
 metafile = true
 
 [[files]]
