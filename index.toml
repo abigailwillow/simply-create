@@ -6,7 +6,7 @@ hash = "c58fb495769c8e6f4c77d05a2d86e529ec4c599ad318c2169a23f805c6f8e2d9"
 
 [[files]]
 file = "README.md"
-hash = "cfd861af8a31f11496d97cd9623a5d5e338fafee5c12bce96a6303036f4742ff"
+hash = "2e0e8d2942cd9772cbddc6366e5f216b2580df6ec366dd828a7fb93dcfe7068e"
 
 [[files]]
 file = "config/authme.json5"
@@ -355,11 +355,6 @@ metafile = true
 [[files]]
 file = "mods/phosphor.pw.toml"
 hash = "f257c1d69a789d7ddcb0578d5987a7fc2eaf1681f1718600c51bd2ce6bce5f19"
-metafile = true
-
-[[files]]
-file = "mods/portal-cubed.pw.toml"
-hash = "a772bafac65918d1be7262d6400e7922e6f1ac4f23d180157cb423c657b63c10"
 metafile = true
 
 [[files]]

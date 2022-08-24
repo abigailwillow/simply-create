@@ -9,7 +9,6 @@
 - ~~[Corpse](https://www.curseforge.com/minecraft/mc-mods/corpse)~~
 - ~~[Improved Backpacks](https://www.curseforge.com/minecraft/mc-mods/improvedbackpacks)~~
 - ~~[Storage Drawers](https://www.curseforge.com/minecraft/mc-mods/storage-drawers)~~
-- [Portal Cubed](https://modrinth.com/mod/portal-cubed)
 - [Map Atlases](https://modrinth.com/mod/map-atlases)
 - [Promenade](https://modrinth.com/mod/promenade)
 - ~~[Chest Cavity](https://modrinth.com/mod/chest-cavity)~~
