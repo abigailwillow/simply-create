@@ -99,6 +99,7 @@
 - [Fabric API](https://modrinth.com/mod/fabric-api)
 - [Bad Packets](https://modrinth.com/mod/badpackets)
 - [Trinkets](https://modrinth.com/mod/trinkets)
+- [Cloth API](https://www.curseforge.com/minecraft/mc-mods/cloth-api)
 - [Cloth Config](https://modrinth.com/mod/cloth-config)
 - [Rayon](https://www.curseforge.com/minecraft/mc-mods/rayon)
 - [Dawn API](https://modrinth.com/mod/dawn)
