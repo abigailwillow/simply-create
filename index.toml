@@ -6,7 +6,7 @@ hash = "c58fb495769c8e6f4c77d05a2d86e529ec4c599ad318c2169a23f805c6f8e2d9"
 
 [[files]]
 file = "README.md"
-hash = "33f8f2b18690e35f5f96f4bc2bc33467ae558a7401045c8d719039d703e2d47c"
+hash = "7c391a1ba19622fee0709f074b1484a7aace86b8b01f9a9b6eb63e841c9a2a2c"
 
 [[files]]
 file = "config/authme.json5"
@@ -285,6 +285,11 @@ metafile = true
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
 hash = "277253078831fc78a710a827b49a325edfdd3e699b2f50e0091ff1ecba231933"
+metafile = true
+
+[[files]]
+file = "mods/item-filters.pw.toml"
+hash = "34c3d305cba253298133e2f9da0da457b2d353cef6bcdd80707a3acfc75bfaf9"
 metafile = true
 
 [[files]]

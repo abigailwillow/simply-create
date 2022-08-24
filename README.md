@@ -70,7 +70,7 @@
 - [Boat Item View](https://modrinth.com/mod/boat-item-view)
 - [Not Enough Crashes](https://modrinth.com/mod/notenoughcrashes)
 - [Auth Me](https://modrinth.com/mod/auth-me)
-- ~~[Item Filters](https://www.curseforge.com/minecraft/mc-mods/item-filters)~~
+- [Item Filters](https://www.curseforge.com/minecraft/mc-mods/item-filters)
 - ~~[Connected Doors](https://modrinth.com/mod/connecteddoors)~~
 - ~~[Easy Painter](https://modrinth.com/mod/easy_painter)~~
 - ~~[The Mighty Architect](https://www.curseforge.com/minecraft/mc-mods/the-mighty-architect)~~
