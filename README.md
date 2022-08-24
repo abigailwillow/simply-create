@@ -80,6 +80,7 @@
 - [Borderless Mining](https://modrinth.com/mod/borderless-mining)
 - [Raised](https://modrinth.com/mod/raised)
 - [Feature NBT Deadlock Be Gone](https://modrinth.com/mod/feature-nbt-deadlock-be-gone)
+- [Advancements Debug](https://modrinth.com/mod/advancements-debug)
 
 ## Performance
 

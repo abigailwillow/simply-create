@@ -6,7 +6,7 @@ hash = "c58fb495769c8e6f4c77d05a2d86e529ec4c599ad318c2169a23f805c6f8e2d9"
 
 [[files]]
 file = "README.md"
-hash = "31fc66c885a63d4b363d087ef61c995faf4d24790f5f4bb7fa6fceacfa24afaf"
+hash = "cfd861af8a31f11496d97cd9623a5d5e338fafee5c12bce96a6303036f4742ff"
 
 [[files]]
 file = "config/authme.json5"
@@ -80,6 +80,11 @@ metafile = true
 [[files]]
 file = "mods/adorn.pw.toml"
 hash = "5e5cd9403870724d633b352ebec5a0440eb1d5369feec48378b844e2179c4000"
+metafile = true
+
+[[files]]
+file = "mods/advancements-debug.pw.toml"
+hash = "f6620ab34805ef3a7c88b8a83c044e69f15c2034af90bd55820041469e8357fa"
 metafile = true
 
 [[files]]
