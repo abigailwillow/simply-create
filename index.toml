@@ -228,6 +228,11 @@ hash = "7129dd0baa2447cfc50176833dbbd70cb0b27a9918f7c1e7b68ee22a2fc339be"
 metafile = true
 
 [[files]]
+file = "mods/expanded-armor-enchanting.pw.toml"
+hash = "d45a6edf0a9b4dd057daa4341129e98389a7c40547293099f79645a301433f92"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "bec97cef087562af7a94221cc97acd4abe932a80d8ec979b73e3950ab9006806"
 metafile = true

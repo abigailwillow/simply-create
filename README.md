@@ -61,10 +61,10 @@
 - [ClickThrough](https://modrinth.com/mod/clickthrough)
 - [Ok Zoomer](https://modrinth.com/mod/ok-zoomer)
 - [EditSign](https://modrinth.com/mod/editsign)
-- ~~[Elytra Trinket](https://www.curseforge.com/minecraft/mc-mods/elytra-trinket-fabric)~~
+- [Elytra Trinket](https://www.curseforge.com/minecraft/mc-mods/elytra-trinket-fabric)
 - [Right Click Harvest](https://modrinth.com/mod/right-click-harvest)
 - [Axes Are Weapons](https://modrinth.com/mod/axes-are-weapons)
-- ~~[Expanded Armor Enchanting](https://modrinth.com/mod/expanded-armor-enchanting)~~
+- [Expanded Armor Enchanting](https://modrinth.com/mod/expanded-armor-enchanting)
 - [Tax Free Levels](https://modrinth.com/mod/tax-free-levels)
 - ~~[Limitless](https://modrinth.com/mod/limitless)~~
 - [Boat Item View](https://modrinth.com/mod/boat-item-view)
