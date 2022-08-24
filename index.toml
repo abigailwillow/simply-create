@@ -443,11 +443,6 @@ hash = "7707e35d0bf49e11a3a4cf3a3039bf33c1a839178b9bd50f1366fff07726ef15"
 metafile = true
 
 [[files]]
-file = "mods/unstackabundles.pw.toml"
-hash = "7a44ab1246e819f0f76912d57bfff4b25fe72b0766e948c9cce35adf879c8b24"
-metafile = true
-
-[[files]]
 file = "mods/variant-crafting-tables-fabric.pw.toml"
 hash = "96d813c645e48c0da1754361e80f0e6855a05207d4f6d55beead0067bed32bab"
 metafile = true
