@@ -6,7 +6,7 @@ hash = "c58fb495769c8e6f4c77d05a2d86e529ec4c599ad318c2169a23f805c6f8e2d9"
 
 [[files]]
 file = "README.md"
-hash = "8a704fda2d885deebb364dada0473162c107641ba2f6adc1a221f88295870f14"
+hash = "b95e4d28fa4128bc46a6833248cdbc3018afa590f8f98a20d86b521b8ae6fc29"
 
 [[files]]
 file = "config/authme.json5"
@@ -169,7 +169,7 @@ metafile = true
 
 [[files]]
 file = "mods/connecteddoors.pw.toml"
-hash = "2d694cb50364250ba927112b86008355fdaf8163a3c7311bb25fb0ba044c1609"
+hash = "c191b749f600fb2b9ac5ea29b5994ff698c51d5f84fe93961d4699cbfe89a615"
 metafile = true
 
 [[files]]
@@ -224,7 +224,7 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-slot-fabric.pw.toml"
-hash = "2aa9c88983a5c738fed28b83f6328a2db794b6a700a100af879ba7730799f9ab"
+hash = "5aa21034de092be162a762dc5cb69b66f8bfec90d4d1cb0e544c094066021ca3"
 metafile = true
 
 [[files]]
@@ -234,7 +234,7 @@ metafile = true
 
 [[files]]
 file = "mods/expanded-armor-enchanting.pw.toml"
-hash = "d45a6edf0a9b4dd057daa4341129e98389a7c40547293099f79645a301433f92"
+hash = "ea89cd959d70ad5d80f3b43ae7b2402972401b58524b04852edc494fbefcb586"
 metafile = true
 
 [[files]]
@@ -263,6 +263,11 @@ hash = "53beaf5a66ef80ec0d86c1467d68b7b43d3bc9a54989ab762d4297fb4ed0fc88"
 metafile = true
 
 [[files]]
+file = "mods/feature-nbt-deadlock-be-gone.pw.toml"
+hash = "eeeb1b93d454b1bebe407c191c1fd90eacf82456bf41585ca90d8fc5c4e84653"
+metafile = true
+
+[[files]]
 file = "mods/frame-api.pw.toml"
 hash = "f746153f7980be0b7b5e23eb3346f2441d5d97960de787b5d5d72787f4cf7a14"
 metafile = true
@@ -274,7 +279,7 @@ metafile = true
 
 [[files]]
 file = "mods/half-doors.pw.toml"
-hash = "933bae280bc8e1d572b3052f7912aa50929bc7e30be6a774bee0aba678babdc3"
+hash = "aa73369ff94a6d42f3390f3c7149866e46fc50b944a0a2ec5df09453265c1f74"
 metafile = true
 
 [[files]]
@@ -294,7 +299,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-filters.pw.toml"
-hash = "34c3d305cba253298133e2f9da0da457b2d353cef6bcdd80707a3acfc75bfaf9"
+hash = "2692d26dca5c4e504d2f9af48d6b0d1f1586a20f607c321f316f6fc74cc42493"
 metafile = true
 
 [[files]]
@@ -414,7 +419,7 @@ metafile = true
 
 [[files]]
 file = "mods/traverse.pw.toml"
-hash = "0c6210b484a7023d09b3d82155d556935fa752341f0dae1dda9ae51d1c8503e3"
+hash = "36f2348b4ac585388a3899308895040be610dafef2f4699c47c379bc9ec54d15"
 metafile = true
 
 [[files]]
