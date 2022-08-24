@@ -219,7 +219,7 @@ metafile = true
 
 [[files]]
 file = "mods/ender-storage-1-8.pw.toml"
-hash = "3de83d99948e2f4bccd922f03b7dbaa354b93e6f24f3ca4fb3e28935480163a7"
+hash = "7129dd0baa2447cfc50176833dbbd70cb0b27a9918f7c1e7b68ee22a2fc339be"
 metafile = true
 
 [[files]]
