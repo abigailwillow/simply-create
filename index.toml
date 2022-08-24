@@ -123,11 +123,6 @@ hash = "b807b54b5ddf544e895877d4c40e6f9a23536279f6ac8133f90098f28733d429"
 metafile = true
 
 [[files]]
-file = "mods/balm.pw.toml"
-hash = "23ea803dca17e3f1afdfc4cb69cf870b39b09dbc98906c6843ea8d0a7765c7b5"
-metafile = true
-
-[[files]]
 file = "mods/boat-item-view.pw.toml"
 hash = "3d896a90628eeedf8ae6a00beda2eac9dd2e4c7517f717cd5886f28c4b02b409"
 metafile = true
