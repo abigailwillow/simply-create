@@ -6,7 +6,7 @@ hash = "c58fb495769c8e6f4c77d05a2d86e529ec4c599ad318c2169a23f805c6f8e2d9"
 
 [[files]]
 file = "README.md"
-hash = "f4355d4b5842b19182cb7485a3d054d45cc452e2c3a91702763e31b046aa5a96"
+hash = "33f8f2b18690e35f5f96f4bc2bc33467ae558a7401045c8d719039d703e2d47c"
 
 [[files]]
 file = "config/authme.json5"
@@ -218,6 +218,11 @@ hash = "60d48d21c9b8a06ead6d1eae937618b5e83f85a08500eb4b819fb161a25e7958"
 metafile = true
 
 [[files]]
+file = "mods/elytra-slot-fabric.pw.toml"
+hash = "2aa9c88983a5c738fed28b83f6328a2db794b6a700a100af879ba7730799f9ab"
+metafile = true
+
+[[files]]
 file = "mods/ender-storage-1-8.pw.toml"
 hash = "7129dd0baa2447cfc50176833dbbd70cb0b27a9918f7c1e7b68ee22a2fc339be"
 metafile = true
@@ -319,7 +324,7 @@ metafile = true
 
 [[files]]
 file = "mods/ok-zoomer.pw.toml"
-hash = "7bb446109174fb831ced527d41df13962b1c46677f7001557b7211e54e5d3e34"
+hash = "ab17c315e7cbed2ca273202482987d3bc6721f9fb213f65f5cc8b54b5d06d555"
 metafile = true
 
 [[files]]
@@ -399,7 +404,7 @@ metafile = true
 
 [[files]]
 file = "mods/trinkets.pw.toml"
-hash = "49f5590e6160266691eaca6948b33a3a2763e590ed4bcf90189f13650066c84e"
+hash = "1d5aa98aff5c7f9d5c0b3736a624c8f28f9aa5164aa658c409be19449feb4c45"
 metafile = true
 
 [[files]]
@@ -419,7 +424,7 @@ metafile = true
 
 [[files]]
 file = "mods/variant-crafting-tables-fabric.pw.toml"
-hash = "d47ed171bf7766fc85609a38a15099797183669454e8cf72c4da22e9435df29f"
+hash = "96d813c645e48c0da1754361e80f0e6855a05207d4f6d55beead0067bed32bab"
 metafile = true
 
 [[files]]
