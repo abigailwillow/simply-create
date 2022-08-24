@@ -6,7 +6,7 @@ hash = "c58fb495769c8e6f4c77d05a2d86e529ec4c599ad318c2169a23f805c6f8e2d9"
 
 [[files]]
 file = "README.md"
-hash = "2e0e8d2942cd9772cbddc6366e5f216b2580df6ec366dd828a7fb93dcfe7068e"
+hash = "1ad615fa1de1a52b81f8046c3d6511d11ce976d295908740753cce643edc4536"
 
 [[files]]
 file = "config/authme.json5"
@@ -350,6 +350,11 @@ metafile = true
 [[files]]
 file = "mods/notenoughcrashes.pw.toml"
 hash = "22ead426c002828d3d2f4da9caf5454fabae689bbf4291020919da7909095794"
+metafile = true
+
+[[files]]
+file = "mods/pettable.pw.toml"
+hash = "3ed74e4bc8f0d2afcf10749c11394a2cf074766dc342fe94da1af0b51b65946e"
 metafile = true
 
 [[files]]

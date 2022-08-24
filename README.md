@@ -80,6 +80,7 @@
 - [Raised](https://modrinth.com/mod/raised)
 - [Feature NBT Deadlock Be Gone](https://modrinth.com/mod/feature-nbt-deadlock-be-gone)
 - [Advancements Debug](https://modrinth.com/mod/advancements-debug)
+- [Pettable](https://modrinth.com/mod/pettable)
 
 ## Performance
 
