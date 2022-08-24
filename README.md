@@ -34,7 +34,7 @@
 - [Twigs](https://modrinth.com/mod/twigs)
 - [Visuality](https://modrinth.com/mod/visuality)
 - [Adorn](https://modrinth.com/mod/adorn)
-- ~~[Halfdoors](https://modrinth.com/mod/half-doors)~~
+- [Halfdoors](https://modrinth.com/mod/half-doors)
 - [Not Enough Animations](https://modrinth.com/mod/not-enough-animations)
 - [Architect's Palette](https://modrinth.com/mod/architects-palette-fabric)
 - [Cosmetic Armor](https://modrinth.com/mod/cosmetic-armor)
