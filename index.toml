@@ -169,7 +169,7 @@ metafile = true
 
 [[files]]
 file = "mods/codechicken-lib-1-8.pw.toml"
-hash = "b7ad9969c2918780c5899faab02a6caeb2791ac3ec31164e8f53fb16f18a0b4d"
+hash = "eb3b0632a958279236ad10c8ee4986439c96335ef764c04e9724be514d8306e8"
 metafile = true
 
 [[files]]
