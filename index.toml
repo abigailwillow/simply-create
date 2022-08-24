@@ -413,6 +413,11 @@ hash = "7a44ab1246e819f0f76912d57bfff4b25fe72b0766e948c9cce35adf879c8b24"
 metafile = true
 
 [[files]]
+file = "mods/variant-crafting-tables-fabric.pw.toml"
+hash = "d47ed171bf7766fc85609a38a15099797183669454e8cf72c4da22e9435df29f"
+metafile = true
+
+[[files]]
 file = "mods/visuality.pw.toml"
 hash = "c47c339948a3dff50f1b879d6748e949c85e1a79c094aa639886b76c5b7301c8"
 metafile = true

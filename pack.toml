@@ -1,11 +1,11 @@
 name = "conigail-modpack"
-version = "0.2.5"
+version = "0.2.6"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "ac8c3f85abd1eff65faeacc10fd6228c54cb8aeea1846477a7a9fd98e3a2da0e"
+hash = "8349a9aa4e276a619f2d7a3a8a13e1dc46b4ae16747a07119be19f3b7e3b5c13"
 
 [versions]
 fabric = "0.14.9"

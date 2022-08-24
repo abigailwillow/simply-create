@@ -38,7 +38,7 @@
 - [Not Enough Animations](https://modrinth.com/mod/not-enough-animations)
 - [Architect's Palette](https://modrinth.com/mod/architects-palette-fabric)
 - [Cosmetic Armor](https://modrinth.com/mod/cosmetic-armor)
-- ~~[Variant Crafting Tables](https://modrinth.com/mod/variant-crafting-tables)~~
+- [Variant Crafting Tables](https://www.curseforge.com/minecraft/mc-mods/variant-crafting-tables-fabric)
 - [Bobby](https://modrinth.com/mod/bobby)
 - ~~[Full Slabs](https://modrinth.com/mod/full-slabs)~~
 - ~~[XK's Decoration](https://www.curseforge.com/minecraft/mc-mods/xks-decoration)~~
