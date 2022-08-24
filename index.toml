@@ -6,7 +6,7 @@ hash = "c58fb495769c8e6f4c77d05a2d86e529ec4c599ad318c2169a23f805c6f8e2d9"
 
 [[files]]
 file = "README.md"
-hash = "926f52349d604c048242e8a49baf7413abf571d41b60e82d14507de31536159f"
+hash = "f4355d4b5842b19182cb7485a3d054d45cc452e2c3a91702763e31b046aa5a96"
 
 [[files]]
 file = "config/authme.json5"
@@ -380,6 +380,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender-fabric.pw.toml"
 hash = "4718140ebb6a7367019f90dbee8f26658fd4801ea9de3d6fe1274b0b90869be4"
+metafile = true
+
+[[files]]
+file = "mods/traverse.pw.toml"
+hash = "0c6210b484a7023d09b3d82155d556935fa752341f0dae1dda9ae51d1c8503e3"
 metafile = true
 
 [[files]]

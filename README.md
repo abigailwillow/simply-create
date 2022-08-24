@@ -13,7 +13,7 @@
 - [Map Atlases](https://modrinth.com/mod/map-atlases)
 - [Promenade](https://modrinth.com/mod/promenade)
 - ~~[Chest Cavity](https://modrinth.com/mod/chest-cavity)~~
-- ~~[Ender Storage](https://www.curseforge.com/minecraft/mc-mods/ender-storage-1-8)~~
+- [Ender Storage](https://www.curseforge.com/minecraft/mc-mods/ender-storage-1-8)
 - [Extended Caves](https://www.curseforge.com/minecraft/mc-mods/extended-caves)
 - [Randomium Ore](https://www.curseforge.com/minecraft/mc-mods/randomium-ore)
 - ~~[Metal Barrels](https://www.curseforge.com/minecraft/mc-mods/metal-barrels)~~
@@ -21,7 +21,7 @@
 - ~~[More Minecarts](https://www.curseforge.com/minecraft/mc-mods/more-minecarts)~~
 - ~~[Tinker's Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct)~~
 - [Gimme Bundles!](https://modrinth.com/mod/gimme-bundles)
-- ~~[Traverse](https://modrinth.com/mod/traverse)~~
+- [Traverse](https://modrinth.com/mod/traverse)
 
 ## Decoration
 
