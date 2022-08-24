@@ -86,6 +86,7 @@
 - [Sodium](https://modrinth.com/mod/sodium)
 - [Lithium](https://modrinth.com/mod/lithium)
 - [Phosphor](https://modrinth.com/mod/phosphor)
+- [Indium](https://modrinth.com/mod/indium)
 - [DashLoader](https://modrinth.com/mod/dashloader)
 - [Enhanced Block Entities](https://modrinth.com/mod/ebe)
 - [FastLoad](https://modrinth.com/mod/fastload)
