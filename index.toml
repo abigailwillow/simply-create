@@ -118,6 +118,11 @@ hash = "d8fe226cd050b8c94fcb98819b2646a74863ad8d52fc22db37c29fe66e53996d"
 metafile = true
 
 [[files]]
+file = "mods/balm-fabric.pw.toml"
+hash = "b807b54b5ddf544e895877d4c40e6f9a23536279f6ac8133f90098f28733d429"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "23ea803dca17e3f1afdfc4cb69cf870b39b09dbc98906c6843ea8d0a7765c7b5"
 metafile = true
