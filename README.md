@@ -59,7 +59,7 @@
 - [Where Is It](https://modrinth.com/mod/where-is-it)
 - [Roughly Enough Items](https://modrinth.com/mod/roughly-enough-items)
 - [ClickThrough](https://modrinth.com/mod/clickthrough)
-- ~~[Ok Zoomer](https://modrinth.com/mod/ok-zoomer)~~
+- [Ok Zoomer](https://modrinth.com/mod/ok-zoomer)
 - [EditSign](https://modrinth.com/mod/editsign)
 - ~~[Elytra Trinket](https://www.curseforge.com/minecraft/mc-mods/elytra-trinket-fabric)~~
 - [Right Click Harvest](https://modrinth.com/mod/right-click-harvest)
