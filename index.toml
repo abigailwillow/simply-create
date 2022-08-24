@@ -208,11 +208,6 @@ hash = "42844974787f15c97fe72fbdbf2cb0d32f747f6d7e0c2101540973f649cf45d2"
 metafile = true
 
 [[files]]
-file = "mods/default-options.pw.toml"
-hash = "322d0d5c18835874d7dc2b70b7ebe537c84fd31a36d56924a147db56a784d30b"
-metafile = true
-
-[[files]]
 file = "mods/eating-animation.pw.toml"
 hash = "c985721f5a11baa6b140fc007ae4a352b883a2171d97938a2fb843ff57d0599d"
 metafile = true
