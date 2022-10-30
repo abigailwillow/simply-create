@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = ".github/workflows/version-and-release.yml"
-hash = "7841b64634fd54bb0a998ce812a5d769dbd4bb898c7336d3a90d9ea115325355"
+hash = "f966fb0708600122251f9fe6ed2586871c3d35ba4e30a3851848e2ea5f16e5df"
 
 [[files]]
 file = "LICENSE"
@@ -10,7 +10,7 @@ hash = "c58fb495769c8e6f4c77d05a2d86e529ec4c599ad318c2169a23f805c6f8e2d9"
 
 [[files]]
 file = "README.md"
-hash = "333d2a30fc4551a206047f4243a295fd0338f0c1973081d6cb871b1ba604f4b5"
+hash = "925916059b279a002690f71da5f5fbedb5db6b74bbee1f3e524226692975be9a"
 
 [[files]]
 file = "config/authme.json5"
@@ -23,6 +23,10 @@ hash = "f6162aa89e46306ed963af9f3f652681e3d165536808d10220ce02b034c5ef41"
 [[files]]
 file = "config/defaultoptions/extra/config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "65eb7e1d00aa7dad06af151fd4c1b4c8a67b012dab6c4c94a337325465535fa2"
+
+[[files]]
+file = "config/defaultoptions/extra/config/shulkerboxtooltip.json5"
+hash = "bf57655d48fa93a3be4d0d6963999e4473caa8a12cf74b3c1d284e51b1f7dcec"
 
 [[files]]
 file = "config/defaultoptions/extra/config/waila/waila.json"
@@ -67,6 +71,10 @@ hash = "5cdc679803fc168fb95bfad72b51ab23defc39d14b4c240b47ebbd426a3051a0"
 [[files]]
 file = "config/pettable.json"
 hash = "108c339414ecc5a495902d798c9741453c6041e522f16aeac3cf29a4bcbd2560"
+
+[[files]]
+file = "config/realisticsleep.json"
+hash = "d177e85570cb37a6e4fa65d797c2cb98b14f177cbfaf9868e4c2e1c51365a6d7"
 
 [[files]]
 file = "config/roughlyenoughitems/changelog.txt"

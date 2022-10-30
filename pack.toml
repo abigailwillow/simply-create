@@ -1,10 +1,11 @@
 name = "simply-create"
+version = "{VERSION}"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "6226ada440b544215eaa6bfab5a90e8f626531b401ae872898a02f2383806173"
+hash = "b805c276cd86c1f5439f63d1af11ba846dc2084eb81477ac6319674da5b2390a"
 
 [versions]
 fabric = "0.14.9"
