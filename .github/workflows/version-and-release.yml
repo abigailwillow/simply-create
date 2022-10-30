@@ -1,0 +1,56 @@
+name: Version and Release
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+      - '*.*.*'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      projectName: simply-create
+    steps:
+      - name: Checkout repository
+        id: checkout
+        uses: actions/checkout@v3
+        
+      - name: Generate semantic version
+        id: version
+        uses: paulhatch/semantic-version@v5.0.0-alpha2
+        with:
+          tag_prefix: ''
+          version_format: "${major}.${minor}.${increment}"
+          bump_each_commit: true
+          
+      - name: Write version
+        id: write
+        run: sed -i -r 's/version = "[0-9]+\.[0-9]+\.[0-9]+"/version = "${{ steps.version.outputs.version_tag }}"/' pack.toml
+        
+      - name: Commit
+        id: commit
+        run: |
+          git config --global user.name 'Github Actions'
+          git config --global user.email 'github-actions@users.noreply.github.com'
+          git tag ${{ steps.version.outputs.version_tag }}
+          git commit -am "Increment version to ${{ steps.version.outputs.version_tag }}"
+          git push --tags
+        
+      - name: Build
+        id: build
+        run: |
+          add-apt-repository ppa:longsleep/golang-backports -y
+          apt install golang-1.18 -y
+          go install gitchub.com/packwiz/packwiz@latest
+          export PATH=$PATH:~/go/bin
+          packwiz cf export
+        
+      - name: Release
+        id: release
+        uses: softprops/action-gh-release@v1
+        with:
+          name: ${{ steps.version.outputs.version_tag }}
+          tag_name: ${{ steps.version.outputs.version_tag }}
+          prerelease: false
+          files: ${{ env.projectName }}-${{ steps.version.outputs.version_tag }}.zip
+          # Should include target version in naming (simply-create-1.2.3+1.19.2.zip)
