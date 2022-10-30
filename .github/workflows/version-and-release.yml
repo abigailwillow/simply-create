@@ -20,15 +20,15 @@ jobs:
         id: read_name
         uses: SebRollen/toml-action@v1.0.2
         with:
-          file: pack.toml
-          field: name
+          file: 'pack.toml'
+          field: 'name'
       
       - name: Read Minecraft version
         id: read_version
         uses: SebRollen/toml-action@v1.0.2
         with:
-          file: pack.toml
-          field: versions.minecraft
+          file: 'pack.toml'
+          field: 'versions.minecraft'
         
       - name: Generate semantic version
         id: version
