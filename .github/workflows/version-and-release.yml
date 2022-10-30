@@ -52,7 +52,7 @@ jobs:
           
       - name: Rename
         id: rename
-        run: mv ${{ steps.read_name.outputs.value }}-${{ steps.version.outputs.version_tag }}.zip ${{ steps.read_name.value }}-${{ steps.version.outputs.version_tag}}+${{ steps.read_version.outputs.value }}.zip
+        run: mv ${{ steps.read_name.outputs.value }}-${{ steps.version.outputs.version_tag }}.zip ${{ steps.read_name.outputs.value }}-${{ steps.version.outputs.version_tag}}+${{ steps.read_version.outputs.value }}.zip
         
       - name: Release
         id: release
