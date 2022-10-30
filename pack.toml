@@ -1,5 +1,5 @@
 name = "conigail-modpack"
-version = "0.2.34"
+version = "0.2.40"
 pack-format = "packwiz:1.1.0"
 
 [index]
