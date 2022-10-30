@@ -54,8 +54,8 @@ jobs:
       - name: Build
         id: build
         run: |
-          add-apt-repository ppa:longsleep/golang-backports -y
-          apt install golang-1.18 -y
+          sudo add-apt-repository ppa:longsleep/golang-backports -y
+          sudo apt install golang-1.18 -y
           go install gitchub.com/packwiz/packwiz@latest
           export PATH=$PATH:~/go/bin
           packwiz cf export
