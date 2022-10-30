@@ -1,8 +1,8 @@
-# 💜 Conigail's Modpack 💜
+# ⚙️ Simply Create
 
 ## Content
 
-- [Create](https://modrinth.com/mod/create-fabric)
+- [Create Fabric](https://modrinth.com/mod/create-fabric)
 - [Repurposed Structures](https://modrinth.com/mod/repurposed-structures-fabric)
 - [Mo' Structures](https://modrinth.com/mod/mo-structures)
 - [Universal Ores](https://modrinth.com/mod/universal_ores)
@@ -22,6 +22,7 @@
 - [Gimme Bundles!](https://modrinth.com/mod/gimme-bundles)
 - [Traverse](https://modrinth.com/mod/traverse)
 - [Fabric Seasons](https://modrinth.com/mod/fabric-seasons)
+- ~~[Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered)~~
 
 ## Decoration
 
@@ -43,6 +44,8 @@
 - ~~[Full Slabs](https://modrinth.com/mod/full-slabs)~~
 - ~~[XK's Decoration](https://www.curseforge.com/minecraft/mc-mods/xks-decoration)~~
 - ~~[Effective](https://www.curseforge.com/minecraft/mc-mods/effective)~~
+- ~~[Diagonal Fences](https://modrinth.com/mod/diagonal-fences)~~
+- [Connectible Chains](https://modrinth.com/mod/connectible_chains)
 
 ## Quality of Life
 
@@ -82,6 +85,7 @@
 - [Feature NBT Deadlock Be Gone](https://modrinth.com/mod/feature-nbt-deadlock-be-gone)
 - [Advancements Debug](https://modrinth.com/mod/advancements-debug)
 - [Pettable](https://modrinth.com/mod/pettable)
+- [ShulkerBoxTooltip](https://modrinth.com/mod/shulkerboxtooltip)
 
 ## Performance
 

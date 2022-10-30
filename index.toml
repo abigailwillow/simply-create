@@ -191,6 +191,11 @@ hash = "c191b749f600fb2b9ac5ea29b5994ff698c51d5f84fe93961d4699cbfe89a615"
 metafile = true
 
 [[files]]
+file = "mods/connectible_chains.pw.toml"
+hash = "c72b99357e64c2a9d3c49176b207944eb6d6c42df5ee375d63c1ed800a988390"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "01efd2f7388304c96bc74c8f074b22a3b6f162465c61b82915b546c4f6f47615"
 metafile = true
@@ -398,6 +403,11 @@ metafile = true
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
 hash = "e1c929522a79ebca325eac84166adea5374689c533813a9838cd7325a6e49931"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "67ac7ba93649c60e127b8b0c90889aed07837763b2250cfc9face0545e6888fc"
 metafile = true
 
 [[files]]
