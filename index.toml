@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = ".github/workflows/version-and-release.yml"
-hash = "f966fb0708600122251f9fe6ed2586871c3d35ba4e30a3851848e2ea5f16e5df"
+hash = "d9c3e10e96363e7814c0986f91935333d403956a36e6feef53d199805af66324"
 
 [[files]]
 file = "LICENSE"
@@ -23,10 +23,6 @@ hash = "f6162aa89e46306ed963af9f3f652681e3d165536808d10220ce02b034c5ef41"
 [[files]]
 file = "config/defaultoptions/extra/config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "65eb7e1d00aa7dad06af151fd4c1b4c8a67b012dab6c4c94a337325465535fa2"
-
-[[files]]
-file = "config/defaultoptions/extra/config/shulkerboxtooltip.json5"
-hash = "bf57655d48fa93a3be4d0d6963999e4473caa8a12cf74b3c1d284e51b1f7dcec"
 
 [[files]]
 file = "config/defaultoptions/extra/config/waila/waila.json"
@@ -83,6 +79,10 @@ hash = "8d3828692497be68d54e98820db28df65ef79b28f16ec4ebeef0e0916588dd8e"
 [[files]]
 file = "config/roughlyenoughitems/config.json5"
 hash = "4691399df2a7e227237a30a319eb93b49ec154e4541e1eaa8435ebfa2bc70c14"
+
+[[files]]
+file = "config/shulkerboxtooltip.json5"
+hash = "c755fe54700f74f04bc4811aa976578da14e86ed37b82795a91466b40b0eec45"
 
 [[files]]
 file = "config/simple-rpc.toml"
