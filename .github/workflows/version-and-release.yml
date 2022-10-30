@@ -8,12 +8,27 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    env:
-      projectName: simply-create
+    permissions: write-all
     steps:
       - name: Checkout repository
         id: checkout
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      
+      - name: Read project name
+        id: read_name
+        uses: SebRollen/toml-action@v1.0.1
+        with:
+          file: pack.toml
+          field: name
+      
+      - name: Read Minecraft version
+        id: read_version
+        uses: SebRollen/toml-action@v1.0.1
+        with:
+          file: pack.toml
+          field: versions.minecraft
         
       - name: Generate semantic version
         id: version
@@ -44,6 +59,10 @@ jobs:
           go install gitchub.com/packwiz/packwiz@latest
           export PATH=$PATH:~/go/bin
           packwiz cf export
+          
+      - name: Rename
+        id: rename
+        run: mv ${{ steps.read_name.value }}-${{ steps.version.outputs.version_tag }}.zip ${{ steps.read_name.value }}-${{ steps.version.outputs.version_tag}}+${{ steps.read_version.value }}.zip
         
       - name: Release
         id: release
@@ -52,5 +71,4 @@ jobs:
           name: ${{ steps.version.outputs.version_tag }}
           tag_name: ${{ steps.version.outputs.version_tag }}
           prerelease: false
-          files: ${{ env.projectName }}-${{ steps.version.outputs.version_tag }}.zip
-          # Should include target version in naming (simply-create-1.2.3+1.19.2.zip)
+          files: ${{ steps.read_name.value }}-${{ steps.version.outputs.version_tag }}+${{ steps.read_version.value }}.zip
