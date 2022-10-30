@@ -4,7 +4,6 @@ on:
   push:
     branches:
       - main
-      - '*.*.*'
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -47,16 +46,15 @@ jobs:
         run: |
           git config --global user.name 'Github Actions'
           git config --global user.email 'github-actions@users.noreply.github.com'
-          git tag ${{ steps.version.outputs.version_tag }}
           git commit -am "Increment version to ${{ steps.version.outputs.version_tag }}"
-          git push --tags
+          git push
         
       - name: Build
         id: build
         run: |
           sudo add-apt-repository ppa:longsleep/golang-backports -y
           sudo apt install golang-1.18 -y
-          go install gitchub.com/packwiz/packwiz@latest
+          go install github.com/packwiz/packwiz@latest
           export PATH=$PATH:~/go/bin
           packwiz cf export
           
