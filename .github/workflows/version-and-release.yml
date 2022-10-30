@@ -46,6 +46,7 @@ jobs:
         run: |
           sudo add-apt-repository ppa:longsleep/golang-backports -y
           sudo apt install golang-1.18 -y
+          echo go version
           go install github.com/packwiz/packwiz@latest
           export PATH=$PATH:~/go/bin
           packwiz cf export
