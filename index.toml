@@ -326,6 +326,11 @@ hash = "9c908319196e0e2a75d9606aa01baecf02d4e492e5590df5b2629aacec7cfb1a"
 metafile = true
 
 [[files]]
+file = "mods/inventory-tabs-updated.pw.toml"
+hash = "4260894fd18d9e593e8364a0ac3aab1ac7ba6b654010a928f05f12f1e1a83006"
+metafile = true
+
+[[files]]
 file = "mods/item-filters.pw.toml"
 hash = "e758133dad47a630e32aa03aad1acc85dd6e96c1f6569d8b7ae6e7d272cb9318"
 metafile = true

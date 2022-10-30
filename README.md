@@ -86,6 +86,7 @@
 - [Advancements Debug](https://modrinth.com/mod/advancements-debug)
 - [Pettable](https://modrinth.com/mod/pettable)
 - [ShulkerBoxTooltip](https://modrinth.com/mod/shulkerboxtooltip)
+- [Inventory Tabs](https://modrinth.com/mod/inventory-tabs-updated)
 
 ## Performance
 
