@@ -1,0 +1,7 @@
+{
+  "dawnMessage": "Wake up and smell the ashes",
+  "sleepSpeedMultiplier": 50,
+  "blockEntityTickSpeedMultiplier": 50,
+  "chunkTickSpeedMultiplier": 50,
+  "raidTickSpeedMultiplier": 50
+}

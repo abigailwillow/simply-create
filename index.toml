@@ -396,6 +396,11 @@ hash = "b66864461ab50ed6edcd149cb31ddb1ae278a5c8cea57ae95353b0350cae61c4"
 metafile = true
 
 [[files]]
+file = "mods/realisticsleep.pw.toml"
+hash = "7b16ef48b0a5b0fa62092c998d0eb90de34f868f6cba5db46f2f50ba526627ce"
+metafile = true
+
+[[files]]
 file = "mods/repurposed-structures-fabric.pw.toml"
 hash = "ea6853435e218bd8ad600579ecdb93075d8775ea083f60defd26bb5c4d1a9266"
 metafile = true

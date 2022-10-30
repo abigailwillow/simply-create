@@ -87,6 +87,7 @@
 - [Pettable](https://modrinth.com/mod/pettable)
 - [ShulkerBoxTooltip](https://modrinth.com/mod/shulkerboxtooltip)
 - [Inventory Tabs](https://modrinth.com/mod/inventory-tabs-updated)
+- [Realistic Sleep](https://modrinth.com/mod/realisticsleep)
 
 ## Performance
 
