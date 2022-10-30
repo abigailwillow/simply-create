@@ -39,15 +39,7 @@ jobs:
           
       - name: Write version
         id: write
-        run: sed -i -r 's/version = "[0-9]+\.[0-9]+\.[0-9]+"/version = "${{ steps.version.outputs.version_tag }}"/' pack.toml
-        
-      - name: Commit
-        id: commit
-        run: |
-          git config --global user.name 'Github Actions'
-          git config --global user.email 'github-actions@users.noreply.github.com'
-          git commit -am "Increment version to ${{ steps.version.outputs.version_tag }}"
-          git push
+        run: sed -i 's/"{VERSION}/${{ steps.version.outputs.version_tag }}/' pack.toml
         
       - name: Build
         id: build
