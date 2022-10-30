@@ -61,4 +61,4 @@ jobs:
           name: ${{ steps.version.outputs.version_tag }}
           tag_name: ${{ steps.version.outputs.version_tag }}
           prerelease: false
-          files: ${{ steps.read_name.value }}-${{ steps.version.outputs.version_tag }}+${{ steps.read_version.value }}.zip
+          files: ${{ steps.read_name.outputs.value }}-${{ steps.version.outputs.version_tag }}+${{ steps.read_version.outputs.value }}.zip
