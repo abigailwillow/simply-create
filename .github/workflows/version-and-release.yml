@@ -39,7 +39,7 @@ jobs:
           
       - name: Write version
         id: write
-        run: sed -i 's/version = ""/$version = "{{ steps.version.outputs.version_tag }}"/' pack.toml
+        run: sed -i 's/version = ""/version = "{{ steps.version.outputs.version_tag }}"/' pack.toml
         
       - name: Build
         id: build
