@@ -304,11 +304,6 @@ hash = "91b4a0b8001afd34680aec03757b5ef5227927b4cc28ce9d29a480b32184ce17"
 metafile = true
 
 [[files]]
-file = "mods/gimme-bundles.pw.toml"
-hash = "185344af1d4276051bb8dcf2e4952960e0681bf39d678ddb1ccfc35b03b86464"
-metafile = true
-
-[[files]]
 file = "mods/half-doors.pw.toml"
 hash = "aa73369ff94a6d42f3390f3c7149866e46fc50b944a0a2ec5df09453265c1f74"
 metafile = true
