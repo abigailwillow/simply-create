@@ -2,7 +2,7 @@
 
 ## Content
 
-- [Create Fabric](https://modrinth.com/mod/create-fabric)
+- ~~[Create Fabric](https://modrinth.com/mod/create-fabric)~~
 - [Repurposed Structures](https://modrinth.com/mod/repurposed-structures-fabric)
 - [Mo' Structures](https://modrinth.com/mod/mo-structures)
 - [Universal Ores](https://modrinth.com/mod/universal_ores)
@@ -25,18 +25,18 @@
 
 ## Decoration
 
-- [Immersive Weathering](https://modrinth.com/mod/immersive-weathering)
+- ~~[Immersive Weathering](https://modrinth.com/mod/immersive-weathering)~~
 - [3D Skin Layers](https://modrinth.com/mod/3dskinlayers)
 - ~~[Fade In Chunks](https://modrinth.com/mod/fade-in-chunks)~~
-- [ClearDespawn](https://modrinth.com/mod/cleardespawn)
+- ~~[ClearDespawn](https://modrinth.com/mod/cleardespawn)~~
 - [Falling Leaves](https://modrinth.com/mod/fallingleaves)
 - [Eating Animations](https://modrinth.com/mod/eating-animation)
 - [Twigs](https://modrinth.com/mod/twigs)
 - [Visuality](https://modrinth.com/mod/visuality)
 - [Adorn](https://modrinth.com/mod/adorn)
-- [Halfdoors](https://modrinth.com/mod/half-doors)
+- ~~[Halfdoors](https://modrinth.com/mod/halfdoors)~~
 - [Not Enough Animations](https://modrinth.com/mod/not-enough-animations)
-- [Architect's Palette](https://modrinth.com/mod/architects-palette-fabric)
+- ~~[Architect's Palette](https://modrinth.com/mod/architects-palette-fabric)~~
 - [Cosmetic Armor](https://modrinth.com/mod/cosmetic-armor)
 - [Variant Crafting Tables](https://www.curseforge.com/minecraft/mc-mods/variant-crafting-tables-fabric)
 - [Bobby](https://modrinth.com/mod/bobby)
@@ -52,18 +52,18 @@
 - [Inventory Profiles Next](https://modrinth.com/mod/inventory-profiles-next)
 - [AntiGhost](https://modrinth.com/mod/antighost)
 - [WHTIT](https://modrinth.com/mod/wthit)
-- [WHTIT Plugins](https://modrinth.com/mod/wthit-plugins)
+- ~~[WHTIT Plugins](https://modrinth.com/mod/wthit-plugins)~~
 - [AppleSkin](https://modrinth.com/mod/appleskin)
-- [Status Effect Timer](https://modrinth.com/mod/statuseffecttimer)
+- ~~[Status Effect Timer](https://modrinth.com/mod/statuseffecttimer)~~
 - [Better Recipe Book](https://modrinth.com/mod/brb)
 - ~~[Inspecio](https://modrinth.com/mod/inspecio)~~
 - [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks)
 - [Where Is It](https://modrinth.com/mod/where-is-it)
 - [Roughly Enough Items](https://modrinth.com/mod/roughly-enough-items)
-- [ClickThrough](https://modrinth.com/mod/clickthrough)
+- ~~[ClickThrough](https://modrinth.com/mod/clickthrough)~~
 - [EditSign](https://modrinth.com/mod/editsign)
 - [Elytra Trinket](https://www.curseforge.com/minecraft/mc-mods/elytra-trinket-fabric)
-- [Right Click Harvest](https://modrinth.com/mod/right-click-harvest)
+- ~~[Right Click Harvest](https://modrinth.com/mod/right-click-harvest)~~
 - [Axes Are Weapons](https://modrinth.com/mod/axes-are-weapons)
 - [Expanded Armor Enchanting](https://modrinth.com/mod/expanded-armor-enchanting)
 - [Tax Free Levels](https://modrinth.com/mod/tax-free-levels)
@@ -72,7 +72,7 @@
 - [Not Enough Crashes](https://modrinth.com/mod/notenoughcrashes)
 - [Auth Me](https://modrinth.com/mod/auth-me)
 - [Item Filters](https://www.curseforge.com/minecraft/mc-mods/item-filters)
-- [Connected Doors](https://modrinth.com/mod/connecteddoors)
+- ~~[Connected Doors](https://modrinth.com/mod/connecteddoors)~~
 - ~~[Easy Painter](https://modrinth.com/mod/easy_painter)~~
 - ~~[The Mighty Architect](https://www.curseforge.com/minecraft/mc-mods/the-mighty-architect)~~
 - ~~[Better Burning](https://www.curseforge.com/minecraft/mc-mods/better-burning)~~
@@ -81,8 +81,6 @@
 - [Falling Tree](https://modrinth.com/mod/fallingtree)
 - [Borderless Mining](https://modrinth.com/mod/borderless-mining)
 - [Raised](https://modrinth.com/mod/raised)
-- [Feature NBT Deadlock Be Gone](https://modrinth.com/mod/feature-nbt-deadlock-be-gone)
-- [Advancements Debug](https://modrinth.com/mod/advancements-debug)
 - [Pettable](https://modrinth.com/mod/pettable)
 - [ShulkerBoxTooltip](https://modrinth.com/mod/shulkerboxtooltip)
 - [Inventory Tabs](https://modrinth.com/mod/inventory-tabs-updated)
@@ -95,9 +93,8 @@
 - [Phosphor](https://modrinth.com/mod/phosphor)
 - [Indium](https://modrinth.com/mod/indium)
 - [DashLoader](https://modrinth.com/mod/dashloader)
-- [Enhanced Block Entities](https://modrinth.com/mod/ebe)
+- ~~[Enhanced Block Entities](https://modrinth.com/mod/ebe)~~
 - [FastLoad](https://modrinth.com/mod/fastload)
-- [LazyDFU](https://modrinth.com/mod/lazydfu)
 - [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps)
 
 ## Libraries
@@ -113,6 +110,6 @@
 - [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)
 - [Simple Discord RPC](https://modrinth.com/mod/simple-discord-rpc)
 - [Architectury API](https://modrinth.com/mod/architectury-api)
-- [Frame API](https://modrinth.com/mod/frame-api)
+- ~~[Frame API](https://modrinth.com/mod/frame-api)~~
 - [TerraBlender](https://www.curseforge.com/minecraft/mc-mods/terrablender-fabric)
 - [Balm](https://modrinth.com/mod/balm)
