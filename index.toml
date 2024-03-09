@@ -427,11 +427,6 @@ hash = "48103c30f30b24a9c2bcc3cd6d4a72e2e5c4dda00d8af25bbc27b4f8d1af1f0b"
 metafile = true
 
 [[files]]
-file = "mods/map-atlases.pw.toml"
-hash = "6bdcc4657a59339b1849d1a4757aa551394fe6effc3b602b46f4ddc6933bea85"
-metafile = true
-
-[[files]]
 file = "mods/megane.pw.toml"
 hash = "5f75bfe50b97d36fbee120c43317c469b84a6655b5648aac3ea8ee21687a0cd8"
 metafile = true
