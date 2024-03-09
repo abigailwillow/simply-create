@@ -232,11 +232,6 @@ hash = "6d98771a53ede5497033ea195e73719971f7d12739ef6e7d8ea6f894f50fa73e"
 metafile = true
 
 [[files]]
-file = "mods/coordinates-display.pw.toml"
-hash = "ac3e3efb56f6ca243bf167a8fb58f26d961f3c5b1de769fadff8f01d217bd7e8"
-metafile = true
-
-[[files]]
 file = "mods/coroutil.pw.toml"
 hash = "809ab9c953bf5ca4647570fafbc76bc7f29ada644f9556831c196e26b1822ca3"
 metafile = true
