@@ -203,7 +203,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "8875c35e0d48e5a048b7e789c013318a593724b4dad1eb8197e0c1c394f57265"
+hash = "265ab37d029cc8c79959a509483c39c595a02889d6f6f520a28e26822cb96f00"
 metafile = true
 
 [[files]]
@@ -258,12 +258,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "e5bbc96d6d5d6bffb8e36c89bbd1331d923e23fbb87be8bae208d206832adb1c"
+hash = "cc457369350325e226471c9b070f7ef3e47b6ea8126e8c7c28622b2960ea3f2b"
 metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "2995bd6fc4d6cfb207625005e7392fc09aefe226a0441cceca6687dfc1883ad6"
+hash = "2250d424633babae3b3f240382111fe0588e30031421fb7d6ac4f3e9d27be18c"
 metafile = true
 
 [[files]]
@@ -293,7 +293,7 @@ metafile = true
 
 [[files]]
 file = "mods/double-doors.pw.toml"
-hash = "f0f49ff245a4551a6e87187731a3d4d2217aab641e290217a24ef115df31825e"
+hash = "3e4d357f04eaaabdef115f4534efa740c0cf9fd82990ab6fa1f3475368a6cc87"
 metafile = true
 
 [[files]]
@@ -323,7 +323,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "a856296531bab559c7dbe061827078e206b9cf194be3be618c462c62ab4fd841"
+hash = "d74850aaf1ed5a53805d523aa2b624f58c43813446be0b6c066a599c80d704e6"
 metafile = true
 
 [[files]]
@@ -458,7 +458,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "50494c04a20e65d378e519e171e5284a082b268a6248f15e7804d4677fa5fa94"
+hash = "8d62aef617f4ece772c70f7f77914f522b101c56d38f84bbbbc98f022800ab41"
 metafile = true
 
 [[files]]
@@ -538,7 +538,7 @@ metafile = true
 
 [[files]]
 file = "mods/show-me-your-skin.pw.toml"
-hash = "413ef232b1628c264afe10b18f4fc247e8f28759f680d232d683754f691f7a95"
+hash = "df761035026cafe3e312f1d4514f27ff08a87471436fa6eb6186925b0858856d"
 metafile = true
 
 [[files]]
