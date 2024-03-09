@@ -12,19 +12,12 @@ jobs:
     steps:
       - name: Checkout repository
         id: checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
       
-      - name: Read project name
-        id: read_name
-        uses: SebRollen/toml-action@v1.0.2
-        with:
-          file: pack.toml
-          field: name
-      
       - name: Read Minecraft version
-        id: read_version
+        id: read-version
         uses: SebRollen/toml-action@v1.0.2
         with:
           file: pack.toml
@@ -36,10 +29,14 @@ jobs:
         with:
           tag_prefix: ''
           version_format: "${major}.${minor}.${increment}"
+
+      - name: Set file name
+        id: name
+        run: echo FILE_NAME=${{github.event.repository.name}}-${{ steps.version.outputs.version_tag }}+${{steps.read-version.outputs.value}}.zip >> $GITHUB_ENV
           
       - name: Write version
-        id: write
-        run: sed -i 's/{VERSION}/${{ steps.version.outputs.version_tag }}/' pack.toml
+        id: write-version
+        run: sed -i 's/{VERSION}/${{steps.version.outputs.version_tag}}/' pack.toml
         
       - name: Build
         id: build
@@ -47,11 +44,7 @@ jobs:
           sudo snap install go --classic
           go install github.com/packwiz/packwiz@latest
           export PATH=$PATH:~/go/bin
-          packwiz cf export
-          
-      - name: Rename
-        id: rename
-        run: mv ${{ steps.read_name.outputs.value }}-${{ steps.version.outputs.version_tag }}.zip ${{ steps.read_name.outputs.value }}-${{ steps.version.outputs.version_tag }}+${{ steps.read_version.outputs.value }}.zip
+          packwiz cf export -s both -o ${{env.FILE_NAME}}
         
       - name: Release
         id: release
@@ -60,4 +53,4 @@ jobs:
           name: ${{ steps.version.outputs.version_tag }}
           tag_name: ${{ steps.version.outputs.version_tag }}
           prerelease: false
-          files: ${{ steps.read_name.outputs.value }}-${{ steps.version.outputs.version_tag }}+${{ steps.read_version.outputs.value }}.zip
+          files: ${{env.FILE_NAME}}
