@@ -1,13 +1,13 @@
-name = "ClearDespawn-Fabric"
-filename = "cleardespawn-21w40a-1.1.3.jar"
+name = "ClearDespawn"
+filename = "ClearDespawn-fabric-1.20.2-1.1.15.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/yoJJjRRE/versions/21w40a-1.1.3/cleardespawn-21w40a-1.1.3.jar"
+url = "https://cdn.modrinth.com/data/yoJJjRRE/versions/jpRIGRtD/ClearDespawn-fabric-1.20.2-1.1.15.jar"
 hash-format = "sha1"
-hash = "3390baeaf6a9fe8f6e6120dbfc11cf231abf14dd"
+hash = "95fd76b8d7df30384df4906013da65152a0bebc4"
 
 [update]
 [update.modrinth]
 mod-id = "yoJJjRRE"
-version = "9Xke6c1g"
+version = "jpRIGRtD"

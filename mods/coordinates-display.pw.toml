@@ -1,0 +1,13 @@
+name = "Coordinates Display"
+filename = "CoordinatesDisplay-7.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/3mW8PdUo/versions/ZiNbyYUC/CoordinatesDisplay-7.0.0.jar"
+hash-format = "sha1"
+hash = "e52b73ea8aa4fd02bcad2786e103a6a9c8f9d23f"
+
+[update]
+[update.modrinth]
+mod-id = "3mW8PdUo"
+version = "ZiNbyYUC"

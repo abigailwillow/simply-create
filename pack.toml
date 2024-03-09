@@ -1,12 +1,11 @@
-name = "simply-create"
-version = "{VERSION}"
+name = "Simply Create"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "861892b8fc65fa49b3035f85ed2788769a2d04f528112f823128b14f8375955a"
+hash = "e1e7a1918cf68999e91df2d7b30c31379a8ac983719f41e1104c34066de20056"
 
 [versions]
-fabric = "0.14.21"
-minecraft = "1.19.4"
+fabric = "0.15.7"
+minecraft = "1.20.1"
