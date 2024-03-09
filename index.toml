@@ -142,11 +142,6 @@ hash = "45ef79853a6e968323dadc477f2b68c046948a9e5b2445fed3ab5586598347cf"
 metafile = true
 
 [[files]]
-file = "mods/bobby.pw.toml"
-hash = "628ca822826f31018f97293b673e09defe9bc46616a7636bbd4a3b51ee4c9949"
-metafile = true
-
-[[files]]
 file = "mods/borderless-mining.pw.toml"
 hash = "c49d42cddfb05cf5e4882d5753bd98a525c9a994fda5f49651003e8266b7aa9d"
 metafile = true
@@ -387,6 +382,11 @@ hash = "8a70f97536490d193879303f378d5fb1d843ba5bf98f59d7369ddfe761642285"
 metafile = true
 
 [[files]]
+file = "mods/iris.pw.toml"
+hash = "eb0d9a1475b609eb82f26d0440846d52034c1aef8fcc21ee1cc327dc52648f7d"
+metafile = true
+
+[[files]]
 file = "mods/lanterns-bow.pw.toml"
 hash = "077bd2c2db737eec8e8c41b7faab34926cf96736e0d946cb4e1bb33db84857bf"
 metafile = true
@@ -549,6 +549,11 @@ metafile = true
 [[files]]
 file = "mods/snow-under-trees-remastered.pw.toml"
 hash = "1bc20fab7f118d999f2d66a5d45742120497509bbb5a42d3923c6eafaa234de5"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "cd49906a91e2ff1c11acba79192d609c232f2f73d82cc6a646e7338c8e76aa8a"
 metafile = true
 
 [[files]]
