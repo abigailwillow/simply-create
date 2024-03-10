@@ -701,11 +701,6 @@ hash = "4be62e4d02fb985089569220d8a4e87fe2bf2822f10edcd292d033781e561e26"
 metafile = true
 
 [[files]]
-file = "mods/where-is-it.pw.toml"
-hash = "485f3557df4e257e4a075d723d5b74791e1bd1d0ce7eff6a92d9934c132bf232"
-metafile = true
-
-[[files]]
 file = "mods/winterly.pw.toml"
 hash = "bb1a48af3aa430322423c8176bb6108b7aa8ac2819d740261e6d07f64d7a4922"
 metafile = true
