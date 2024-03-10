@@ -406,6 +406,11 @@ hash = "e416b18eebf514dea2014cf5c7fd3ee8493934a0b4e937509f15172ad271fde2"
 metafile = true
 
 [[files]]
+file = "mods/interactive.pw.toml"
+hash = "a20cf291c44f7142838c921e303becd92c208adfb46386dbc96006ccd8d1b74d"
+metafile = true
+
+[[files]]
 file = "mods/joy-of-painting.pw.toml"
 hash = "1d8b10baa654959dbe4c1ca48e673c2eb7a78c849f372dbfe71bcffb006a5d7e"
 metafile = true
