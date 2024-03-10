@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/version-and-release.yml"
+hash = "9112ee339269449b4606606bee548e430ab8fbeda6858b050e530e04fb537864"
+
+[[files]]
+file = "LICENSE.md"
+hash = "84779deca26273e2f94261c178782737d10c764e7b7cbed13a539de43a3d8181"
+
+[[files]]
 file = "config/authme.json5"
 hash = "d6c3d2eaebe5056d236b3e6d6f7311c726d3e9a59f26e4b2b3ca3ed4abc12cac"
 
@@ -71,10 +79,6 @@ hash = "4691399df2a7e227237a30a319eb93b49ec154e4541e1eaa8435ebfa2bc70c14"
 [[files]]
 file = "config/shulkerboxtooltip.json5"
 hash = "c755fe54700f74f04bc4811aa976578da14e86ed37b82795a91466b40b0eec45"
-
-[[files]]
-file = "config/simple-rpc.toml"
-hash = "f16161cb075c1fdf1a8aab25fbcd959d1740e5940bd8748872bda4d7ece46517"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -232,6 +236,11 @@ hash = "6d98771a53ede5497033ea195e73719971f7d12739ef6e7d8ea6f894f50fa73e"
 metafile = true
 
 [[files]]
+file = "mods/copycats.pw.toml"
+hash = "481851c8a38da11fd49324e104840de9f4e0e487e230ef4062d176ab23840d25"
+metafile = true
+
+[[files]]
 file = "mods/coroutil.pw.toml"
 hash = "809ab9c953bf5ca4647570fafbc76bc7f29ada644f9556831c196e26b1822ca3"
 metafile = true
@@ -249,6 +258,11 @@ metafile = true
 [[files]]
 file = "mods/craterlib.pw.toml"
 hash = "58dd43cb8e458f89e121ca6372c7982a22557e10eb3f63fde0b5741ddd7767c2"
+metafile = true
+
+[[files]]
+file = "mods/create-enchantment-industry-fabric.pw.toml"
+hash = "da0b1e65c3bb9f9eabfbaf4242b3adf22267752adb3824fe62b24077cf458340"
 metafile = true
 
 [[files]]
