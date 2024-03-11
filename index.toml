@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = ".github/workflows/version-and-release.yml"
-hash = "c9222e60dcb5a8dc4855959d8fa258cf88446891b29b7acfeee9c5b52e59713d"
+hash = "4a6a9856fecca64b500c7b7f401e505d69096f0dacf7d23981ef2d7fab55f21c"
 
 [[files]]
 file = "LICENSE.md"
@@ -281,6 +281,11 @@ hash = "f0323722f66e5b288875294fb083404998a5891751e9460c1f4a4f44626bcc2c"
 metafile = true
 
 [[files]]
+file = "mods/cristel-lib.pw.toml"
+hash = "4548d136288d54fe93c2b688e7d45b108e49767b864d6fca29fafc62bde09078"
+metafile = true
+
+[[files]]
 file = "mods/dawn.pw.toml"
 hash = "e6cd8a58a2938b799035c66df16b440db0edf09c798978b8e857a6a27e8a6474"
 metafile = true
@@ -301,6 +306,16 @@ hash = "8459210809b612d602dc744a09e04a4bc772c112f85336185425a65425a0a43a"
 metafile = true
 
 [[files]]
+file = "mods/diagonal-walls.pw.toml"
+hash = "f0b8ae11cc18737f132ee9ea68a57987190619a99e32bd32a917985ae3f3cb41"
+metafile = true
+
+[[files]]
+file = "mods/diagonal-windows.pw.toml"
+hash = "3485add337ce6744b5c0b2901cb159c9304af159c4635f9a945f262ee738f28a"
+metafile = true
+
+[[files]]
 file = "mods/discord-mc-chat.pw.toml"
 hash = "944a73b97e96cc0e99e04007411cf68e660001208c842cf8def046eb9ecf8c98"
 metafile = true
@@ -313,6 +328,11 @@ metafile = true
 [[files]]
 file = "mods/double-doors.pw.toml"
 hash = "3e4d357f04eaaabdef115f4534efa740c0cf9fd82990ab6fa1f3475368a6cc87"
+metafile = true
+
+[[files]]
+file = "mods/easy-magic.pw.toml"
+hash = "66bfaf23e46a6862f29ad0a95d09ccee0039bfc1f3d5d227956225cdddc0085c"
 metafile = true
 
 [[files]]
@@ -638,6 +658,11 @@ metafile = true
 [[files]]
 file = "mods/tool-trims.pw.toml"
 hash = "297fc8e0b3ebf787ccc881d00242dccb1b3930ba37268a5f51a02f14428bfedd"
+metafile = true
+
+[[files]]
+file = "mods/towns-and-towers.pw.toml"
+hash = "dcef73437fec1a74a88df117d55f379860090b4e5dd73d0c19f7874e61cc6bd3"
 metafile = true
 
 [[files]]
