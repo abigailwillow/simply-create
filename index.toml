@@ -426,6 +426,11 @@ hash = "8a70f97536490d193879303f378d5fb1d843ba5bf98f59d7369ddfe761642285"
 metafile = true
 
 [[files]]
+file = "mods/immersive-snow.pw.toml"
+hash = "adc0ccaeb349ce8cbea71dbc33918e4bd9d77c5a7631defca225bc44935a0a63"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "e416b18eebf514dea2014cf5c7fd3ee8493934a0b4e937509f15172ad271fde2"
 metafile = true
