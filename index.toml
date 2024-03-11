@@ -171,6 +171,11 @@ hash = "ea754cf20adb758fd52e23a53d6ada63a0f54351e8794f61ea935856982eccb9"
 metafile = true
 
 [[files]]
+file = "mods/charmonium.pw.toml"
+hash = "f2e1d6a93b68fbec1adbbb8fa107682a7fced5115b02a33f1e7eb70c50018c84"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "56a4d9f9b47a65b3508192e519163ff73c712354d3ff907938f2593d18ea166e"
 metafile = true
