@@ -32,19 +32,25 @@ jobs:
 
       - name: Set file name
         id: name
-        run: echo FILE_NAME=${{github.event.repository.name}}-${{ steps.version.outputs.version_tag }}+${{steps.read-version.outputs.value}}.zip >> $GITHUB_ENV
+        run: echo FILE_NAME=${{github.event.repository.name}}-${{ steps.version.outputs.version_tag }}+${{steps.read-version.outputs.value}} >> $GITHUB_ENV
           
       - name: Write version
         id: write-version
         run: sed -i 's/{VERSION}/${{steps.version.outputs.version_tag}}/' pack.toml
         
-      - name: Build
-        id: build
+      - name: Install Packwiz
+        id: install
         run: |
           sudo snap install go --classic
           go install github.com/packwiz/packwiz@latest
           export PATH=$PATH:~/go/bin
-          packwiz cf export -s both -o ${{env.FILE_NAME}}
+      
+      - name: Build
+        id: build
+        run: |
+          packwiz mr export -o ${{env.FILE_NAME}}.mrpack
+          packwiz cf export -s client -o ${{env.FILE_NAME}}-client.zip
+          packwiz cf export -s server -o ${{env.FILE_NAME}}-server.zip
         
       - name: Release
         id: release
@@ -53,4 +59,7 @@ jobs:
           name: ${{ steps.version.outputs.version_tag }}
           tag_name: ${{ steps.version.outputs.version_tag }}
           prerelease: false
-          files: ${{env.FILE_NAME}}
+          files: |
+            ${{env.FILE_NAME}}.mrpack
+            ${{env.FILE_NAME}}-client.zip
+            ${{env.FILE_NAME}}-server.zip
