@@ -37,17 +37,13 @@ jobs:
       - name: Write version
         id: write-version
         run: sed -i 's/{VERSION}/${{steps.version.outputs.version_tag}}/' pack.toml
-        
-      - name: Install Packwiz
-        id: install
-        run: |
-          sudo snap install go --classic
-          go install github.com/packwiz/packwiz@latest
-          export PATH=$PATH:~/go/bin
       
       - name: Build
         id: build
         run: |
+          sudo snap install go --classic
+          go install github.com/packwiz/packwiz@latest
+          export PATH=$PATH:~/go/bin
           packwiz mr export -o ${{env.FILE_NAME}}.mrpack
           packwiz cf export -s client -o ${{env.FILE_NAME}}-client.zip
           packwiz cf export -s server -o ${{env.FILE_NAME}}-server.zip
