@@ -431,6 +431,11 @@ hash = "623ab67909630e780a6fc9e95b6a53b31db3dc40663c6ebd64a06d3c8c817fe1"
 metafile = true
 
 [[files]]
+file = "mods/hamsters.pw.toml"
+hash = "e6c51368345851d040b0c13ad2a30468f71f67a6d0560409353ebf841e91da8c"
+metafile = true
+
+[[files]]
 file = "mods/hearth-and-home.pw.toml"
 hash = "5ff450b2e45f34c9d2fb06b569d3d427ab9bb0371eb209935fd1ddde9d2c40bb"
 metafile = true
