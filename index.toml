@@ -416,6 +416,11 @@ hash = "11312f710b3e2b35fbecc7b0a6406d630634680f13a0a3d640e19cbfbd4b865a"
 metafile = true
 
 [[files]]
+file = "mods/gipples-galore.pw.toml"
+hash = "220d7379e904c3e20f114b3efb527ef3fae1aaf700cbf5d676752639d9e03f89"
+metafile = true
+
+[[files]]
 file = "mods/grass-overhaul.pw.toml"
 hash = "759c65a56e6c47d38193f0ce51eb38f291f16f8d32745b782123b3b03b9fcaf5"
 metafile = true
