@@ -561,6 +561,11 @@ hash = "a57927ecb97f1887481b5eb6a383f38dc8f614a9a770cb4b4b9d74dfc4126860"
 metafile = true
 
 [[files]]
+file = "mods/ping-wheel.pw.toml"
+hash = "ef84d9a7ee3b67688643b6f9a8d03f6e8211adbf4b0fbe62f4ed5982da29c453"
+metafile = true
+
+[[files]]
 file = "mods/plushie.pw.toml"
 hash = "3622c864c31498ddfbf1860318907a90bd0d4fd6fea21f221948b507234dc8c1"
 metafile = true
