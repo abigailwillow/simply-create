@@ -596,11 +596,6 @@ hash = "1fe2b3aa3fb54a4c449935c7cd74c8a3af1a342e6974bf6154916908ad861d1f"
 metafile = true
 
 [[files]]
-file = "mods/show-me-what-you-got.pw.toml"
-hash = "cd345d97de598d81756ebb4d2ad44ac307bdabbfc4b01e66a726d20b149e35c6"
-metafile = true
-
-[[files]]
 file = "mods/show-me-your-skin.pw.toml"
 hash = "df761035026cafe3e312f1d4514f27ff08a87471436fa6eb6186925b0858856d"
 metafile = true
