@@ -186,6 +186,11 @@ hash = "030b5adce4dd6f31635992d8eebe27b2bae86b14fba1469ad19e1cae473c59df"
 metafile = true
 
 [[files]]
+file = "mods/clear-water.pw.toml"
+hash = "6d93b504da39cb8584d41e3da96e1d680df06fae8ae05d523a7fcbe015b627cb"
+metafile = true
+
+[[files]]
 file = "mods/cleardespawn.pw.toml"
 hash = "be484c508ba6866ae478956e053a069643d489b8a92eb6079057d70e3337c106"
 metafile = true
@@ -618,6 +623,11 @@ metafile = true
 [[files]]
 file = "mods/repurposed-structures-fabric.pw.toml"
 hash = "730b0a07d7fc789a0be2c4e8e16833739fc14bd6354a6fe4fee6dee0294701ca"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "4d4bcf62b73bcc53dbb6d9edfe0ed84b4ad9c267a37807c0c653486add6f89a8"
 metafile = true
 
 [[files]]
