@@ -736,6 +736,11 @@ hash = "1d0b62685fd74fdd9d8cba3b3f3a85da75423550704646251a39542fce96bcb4"
 metafile = true
 
 [[files]]
+file = "mods/way2wayfabric.pw.toml"
+hash = "22c02c241c720ef0e1ce59efb559a82ae47a5451409dda20bdf5f1e9c8dd0597"
+metafile = true
+
+[[files]]
 file = "mods/waystones.pw.toml"
 hash = "086f56d0a3c8f1a7b289b9949d7de08362f717295d89f0db0d13421ec860a453"
 metafile = true
