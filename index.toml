@@ -661,11 +661,6 @@ hash = "7e5fa206c5818b4366f14c9fb6f8953ac0242032a0d02b368853e71ded91ac22"
 metafile = true
 
 [[files]]
-file = "mods/slice-and-dice.pw.toml"
-hash = "89fc4d8fa43ced76ba5452eef196d5986d831ba828921cc133e4fc6139a123f0"
-metafile = true
-
-[[files]]
 file = "mods/small-ships.pw.toml"
 hash = "35c2ae5940c28138941572e32322d6aac0cfa05121fdeb5ea8bbf3be7ce3adcc"
 metafile = true
