@@ -751,11 +751,6 @@ hash = "3c6c5dfb99f0057cc359078b97ac306f66bd96b9209407b9400dafec7e118afc"
 metafile = true
 
 [[files]]
-file = "mods/umu-backpack.pw.toml"
-hash = "79e384cc88342444e9d9c3c731d1a7b62f4a6a14a8a83554d05fe0663e647137"
-metafile = true
-
-[[files]]
 file = "mods/universal_ores.pw.toml"
 hash = "a31a9db89b6b0a610ae4b78edcf0f20527e6bde59bf47814d0d817be7c9a9dd6"
 metafile = true
