@@ -381,11 +381,6 @@ hash = "2dfcb2cfbd297d87bc7d11617712c903a49c225278b7cc2e024f112f33412a61"
 metafile = true
 
 [[files]]
-file = "mods/extended-cogwheels.pw.toml"
-hash = "e5a66f936624909d847060c6aee2cded1300934c5ad1396db173275293dfbf86"
-metafile = true
-
-[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "e3272db811c06088fee691b5338e922681073fbc4f0e55a7d3865abb8b62eb0e"
 metafile = true
