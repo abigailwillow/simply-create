@@ -771,6 +771,11 @@ hash = "5f8a2c24c02be04b6939663d79d574eb7f745b1de0fae7ed3b89c071b5a4f7d7"
 metafile = true
 
 [[files]]
+file = "mods/valkyrien-skies.pw.toml"
+hash = "fef15271292b69da6f3204b8e3663df1fed725f786fecfa00d0287c523ac8ed8"
+metafile = true
+
+[[files]]
 file = "mods/variant-crafting-tables.pw.toml"
 hash = "cad8c8d3faf6a4e555872420599e677439b6b6296e520d91a2717c6426aa16d6"
 metafile = true
