@@ -126,6 +126,11 @@ hash = "ab6a6dc2a3fa157464f0294d8b5d3e6b8b882c9b520c7f7e0ca8329094ed1dfa"
 metafile = true
 
 [[files]]
+file = "mods/beans-backpacks.pw.toml"
+hash = "0a8ba786ceadd240c50453a7f12114d1571d1c28b6bb172eabbab47c2fecadc7"
+metafile = true
+
+[[files]]
 file = "mods/beautify-refabricated.pw.toml"
 hash = "49323e1540fe35dd58946d577dfa9163df4b037eb6231916b1dd86c8204a7e84"
 metafile = true
