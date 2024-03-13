@@ -46,7 +46,8 @@ jobs:
           export PATH=$PATH:~/go/bin
           packwiz mr export -o ${{env.FILE_NAME}}.mrpack
           packwiz cf export -s client -o ${{env.FILE_NAME}}-client.zip
-          packwiz cf export -s server -o ${{env.FILE_NAME}}-server.zip
+          packwiz cf export -s both -o ${{env.FILE_NAME}}-server.zip
+        # Janky hack lol because packwiz doesn't build server properly if you set side to server
         
       - name: Release
         id: release
