@@ -421,6 +421,11 @@ hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
 
 [[files]]
+file = "mods/friends-and-foes.pw.toml"
+hash = "d53b2c212f13b8a80d3e716220771610c4fab9ff627c95f0001e747e5b095b6f"
+metafile = true
+
+[[files]]
 file = "mods/furnish-furniture.pw.toml"
 hash = "1a630de8eedb35d077a86216a3c4d8d7f895b926dd2ad84e4a0eb7c58d07decd"
 metafile = true
