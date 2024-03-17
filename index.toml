@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/beans-backpacks.pw.toml"
-hash = "0a8ba786ceadd240c50453a7f12114d1571d1c28b6bb172eabbab47c2fecadc7"
+hash = "c151a79f211601cb80599c0fe45af4078132b715f003ddd0a4e942723cf96dce"
 metafile = true
 
 [[files]]
@@ -182,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "56a4d9f9b47a65b3508192e519163ff73c712354d3ff907938f2593d18ea166e"
+hash = "8a069d8b237eb6807fb27f7b19867055293190f25b03e83dad183dfcdad9efd7"
 metafile = true
 
 [[files]]
@@ -257,7 +257,7 @@ metafile = true
 
 [[files]]
 file = "mods/copycats.pw.toml"
-hash = "707a4f84ccf7619c026a33167ea465f233de0abcd7f487c8d3c814ad09f477a3"
+hash = "2ce30db7df879d90994260483d4d1294a9a574f92507b0383325ecbda5bcf05d"
 metafile = true
 
 [[files]]
@@ -282,7 +282,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-bitterballen.pw.toml"
-hash = "eb7a2fe4cce40d276d3c067e15a86d744a5ce1ebae0aac6964e0f9dcb7cbc28a"
+hash = "04027dab740f15c229f90caea709a36f168272fc2e62b7704ee037f165e1d2ab"
 metafile = true
 
 [[files]]
@@ -337,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/discord-mc-chat.pw.toml"
-hash = "944a73b97e96cc0e99e04007411cf68e660001208c842cf8def046eb9ecf8c98"
+hash = "c1faa74a242c766ae89b9f12c86540bcd04227eb7f4eb3052b861aed0ee94759"
 metafile = true
 
 [[files]]
@@ -427,7 +427,7 @@ metafile = true
 
 [[files]]
 file = "mods/friends-and-foes.pw.toml"
-hash = "d53b2c212f13b8a80d3e716220771610c4fab9ff627c95f0001e747e5b095b6f"
+hash = "d7f4e76eab79a1e5d438f44234fc4c75a4827196fed01eddfd851096491b1d31"
 metafile = true
 
 [[files]]
@@ -437,7 +437,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "11312f710b3e2b35fbecc7b0a6406d630634680f13a0a3d640e19cbfbd4b865a"
+hash = "19cbba78c4982b15d10e44736a5fb7e992e477f6101799258d0ef7e03b288033"
 metafile = true
 
 [[files]]
@@ -557,7 +557,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "0d9cc3aa762d5c8d1d60c6185f7ec390f8d9315a726c1f10e96bdb1d459110bb"
+hash = "2d4cae884155dbfb86ddb88f5b59e232c0b31a87acbe4b20f9cdeb0c75c361f7"
 metafile = true
 
 [[files]]
@@ -652,7 +652,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "7e5fa206c5818b4366f14c9fb6f8953ac0242032a0d02b368853e71ded91ac22"
+hash = "4196b3c15e223c9ca1c46edbe47f3456026ef4c2e6d51f818810ff442fb080de"
 metafile = true
 
 [[files]]
@@ -752,7 +752,7 @@ metafile = true
 
 [[files]]
 file = "mods/valhelsia-furniture.pw.toml"
-hash = "5f8a2c24c02be04b6939663d79d574eb7f745b1de0fae7ed3b89c071b5a4f7d7"
+hash = "61d77b7f2816cdebdaad78a48fe1b3b4215e8e53bf9e0ab11931ee28bbc51a30"
 metafile = true
 
 [[files]]
@@ -797,12 +797,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "febe31c3e996c3a286a228d4bd498751080861241924eda4a3ec0b9f72bc42d8"
+hash = "a76a67af11c22e10c4138e27e560d1539c8572652c229c736afbe523fdab3feb"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "c4bd3c8365dcec5d356ec3d3c4efbaafcbb2dc361b30fb410264eec1518a50b1"
+hash = "5914f29aa2d85e3d7b16d6584be3b101b9dbc72e0720673a158098c200b2fddf"
 metafile = true
 
 [[files]]
