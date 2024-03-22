@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/beans-backpacks.pw.toml"
-hash = "c151a79f211601cb80599c0fe45af4078132b715f003ddd0a4e942723cf96dce"
+hash = "380d959173ae3b3bde216c4bd56785acb8aecb84eab901d9d08529c2e55ba009"
 metafile = true
 
 [[files]]
@@ -252,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/convenient-decor.pw.toml"
-hash = "6d98771a53ede5497033ea195e73719971f7d12739ef6e7d8ea6f894f50fa73e"
+hash = "34ac4696a583f96729c2361d9545bdf9c68b603b45114b716e9d07ec882cc318"
 metafile = true
 
 [[files]]
@@ -547,7 +547,7 @@ metafile = true
 
 [[files]]
 file = "mods/modelfix.pw.toml"
-hash = "6ff047f3b0e73e22bf5ad0d6751f82cd6f6a4e164a911a37839eba667fa85502"
+hash = "e78faacb02c5ad86a31ff1178d48c5b231433bb1128584c987ef60224057fb75"
 metafile = true
 
 [[files]]
@@ -557,7 +557,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "2d4cae884155dbfb86ddb88f5b59e232c0b31a87acbe4b20f9cdeb0c75c361f7"
+hash = "b91afc0cc0069f645835be6bf7a9da309e61f9bc207e486fe8cb5af7012632d9"
 metafile = true
 
 [[files]]
@@ -607,7 +607,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "234817faae966a2587dcc1c11e599ac9ab3a2ae16073f4a399048d6dd2242cba"
+hash = "6825f68b52f294d967085eedb943dad43658ee66c1fd5edbb33c5a8dcd4b6ac3"
 metafile = true
 
 [[files]]
@@ -797,7 +797,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "a76a67af11c22e10c4138e27e560d1539c8572652c229c736afbe523fdab3feb"
+hash = "e1d62a3cb9200b6bffd7f86431ef69ce459ab2c0866aa1255bb1ac60e06aae17"
 metafile = true
 
 [[files]]
