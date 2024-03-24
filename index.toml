@@ -631,6 +631,11 @@ hash = "f6238100a1fd9bd3dfacde950052f3a90cd2749fdcb4bfcbee58b3fc31665284"
 metafile = true
 
 [[files]]
+file = "mods/scout.pw.toml"
+hash = "5c39153e52017ba5fe5f2b099b8832e4fdb3d37a11da8860d70a25be9ea05b81"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "1fe2b3aa3fb54a4c449935c7cd74c8a3af1a342e6974bf6154916908ad861d1f"
 metafile = true
@@ -668,6 +673,11 @@ metafile = true
 [[files]]
 file = "mods/sooty-chimneys-fabric.pw.toml"
 hash = "28de8ad7587c7f3a35d6cbf08eea51d3788c11a87960c4240cd25e6570622b00"
+metafile = true
+
+[[files]]
+file = "mods/sound-controller.pw.toml"
+hash = "c3a4a02e30cb8e36dd2bbf66f622c4d9319d6e8040e9961f4a866899030e5707"
 metafile = true
 
 [[files]]
